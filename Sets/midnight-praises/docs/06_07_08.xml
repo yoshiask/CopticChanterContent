@@ -53,8 +53,8 @@
                 <Stanza>Wherefore we glorify you / as the Mother of God, / ask your Son / to forgive us.</Stanza>
             </Section>
         </Translation>
-        <Translation Language="Coptic" Title="Ϯⲑⲉ`ⲟⲧⲟⲕⲓⲁ `ⲙ`Ⲡⲉϩⲟⲟⲩ `ⲛϮⲕⲩⲣⲓⲁⲕⲏ (ⲍ&#x0305;-ⲑ&#x0305;)" Font="CS Avva Shenouda">
-            <Section Title="\}mahsasfi">
+        <Translation Language="Coptic" Title="Ϯⲑⲉⲟ&#x0300;ⲧⲟⲕⲓⲁ ⲙ&#x0300;Ⲡ&#x0300;ⲉϩⲟⲟⲩ ⲛ&#x0300;Ϯⲕⲩⲣⲓⲁⲕⲏ (ⲍ&#x0305;-ⲑ&#x0305;)" Font="CopticStandard">
+            <Section Title="Ϯⲙⲁϩϣⲁϣϥⲓ">
                 <Stanza>\def{HailMary}@ ][rompi e;necwc@ ;y`etacmici nan@ `m`Vnou] Pilogoc.</Stanza>
                 <Stanza>`N;o te ]`hryri@ `nte pi`c;oinoufi@ ;y`etacviri `ebol@ qen `;nouni `nIecce.</Stanza>
                 <Stanza>Pi`sbwt `nte `A`arwn@ `etafviri `ebol@ ,wric [o nem `tco@ `foi `ntupoc ne.</Stanza>
@@ -69,7 +69,7 @@
                 <Stanza>Je aucaji e;by]@ `nhan`hbyou`i eutaiyout@ ]baki e;ouab@ `nte pinis] `nOuro.</Stanza>
                 <Stanza>Ten]ho tentwbh@ e;rensasni eunai@ hiten ne`precbia@ `ntotf `mPimairwmi.</Stanza>
             </Section>
-            <Section Title="\}mah`smyni">
+            <Section Title="Ϯⲙⲁϩϣ&#x0300;ⲙⲏⲛⲓ">
                 <Stanza>Sasf `ncop `mmyni@ `ebol qen pahyt tyrf@ ]na`cmou `epekran@ `P[oic `mpi`e`ptyrf.</Stanza>
                 <Stanza>Aier`vmeu`i `mpekran@ ouoh aijemnom]@ `Pouro `nni`ewn@ `Vnou] `nte ninou].</Stanza>
                 <Stanza>Iycouc Pi`,rictoc Pennou]@ Pi`aly;inoc@ vy`etaf`i e;be pencw]@ afercwmatikoc.</Stanza>
@@ -95,7 +95,7 @@
                 <Stanza>\}]ho `ero@ `w \};e`otokoc@ ,a `vro `nniekklycia@ efouyn `nnipictoc.</Stanza>
                 <Stanza>Maren]ho `eroc@ e;rectwbh `ejwn@ nahren Pecmenrit@ e;ref,w nan `ebol.</Stanza>
             </Section>
-            <Section Title="\}mah'i]">
+            <Section Title="Ϯⲙⲁϩⲯⲓϯ">
                 <Stanza>Aumou] `ero@ Maria \}par;enoc@ je ]`hryri e;ouab@ `nte pi`c;oinoufi.</Stanza>
                 <Stanza>:y`etac]ou`w `e`pswi@ acviri `ebol@ qen `;nouni `nnipatriar,yc@ nem ni`provytyc.</Stanza>
                 <Stanza>`M`vry] `mpi`sbwt@ `nte `A`arwn piouyb@ `etafviri `ebol@ afopt `nkarpoc.</Stanza>
