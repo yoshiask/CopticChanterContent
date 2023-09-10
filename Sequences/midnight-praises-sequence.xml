@@ -13,7 +13,8 @@
         <Const Id="10" DocumentKey="urn:tasbehaorg-cr:182">11</Const>
         <Const Id="11" DocumentKey="urn:tasbehaorg-cr:108">12</Const>
         <Const Id="12" DocumentKey="28c70071-ce5e-4add-aa5c-d093acfb2755">14</Const>
-        <Const Id="14" DocumentKey="28c70071-ce5e-4add-aa5c-d093acfb2774">17</Const>
+        <Const Id="14" DocumentKey="28c70071-ce5e-4add-aa5c-d093acfb2774">15</Const>
+        <Const Id="15" DocumentKey="urn:tasbehaorg:111">17</Const>
 
         <Script Id="17" DocumentKey="urn:tasbehaorg-cr:127">
 <![CDATA[
@@ -30,7 +31,8 @@ public override int? Execute(LoadContextBase? context) =>
         <Const Id="205" DocumentKey="urn:tasbehaorg-cr:146">29</Const>
 
         <Const Id="29" DocumentKey="urn:tasbehaorg-cr:1929">32</Const>
-        <Const Id="32" DocumentKey="urn:tasbehaorg-cr:147">42</Const>
+        <Const Id="32" DocumentKey="urn:tasbehaorg-cr:147">37</Const>
+        <Const Id="37" DocumentKey="urn:suscopts:concluding-hymn">42</Const>
 
         <Const Id="42" DocumentKey="28c70071-ce5e-4add-aa5c-d093acfb2787"/>
     </Nodes>
