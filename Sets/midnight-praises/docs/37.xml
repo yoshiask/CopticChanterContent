@@ -54,25 +54,30 @@ public override CoptLib.Models.IDefinition Execute(LoadContextBase? context)
         return new LocalDate(y ?? year, month, day, CalendarSystem.Coptic);
     }
 
-    string? engText, copText;//, araText;
+    string? engText, copText, araText;
     engText = copText = null;
 
     const string seasonEndEng = "May your mercy and peace be fortress unto Your people.";
     const string seasonEndCop = "ⲙⲁⲣⲉ ⲡⲉⲕⲛⲁⲓ ⲛⲉⲙ ⲧⲉⲕϩⲓⲣⲏⲛⲏ ⲟⲓ ⲛ\u0300ⲥⲟⲃⲧ ⲙ\u0300ⲡⲉⲕⲗⲁⲟⲥ:";
+    const string seasonEndAra = "ولتكن رحمتك وسلامك حصناً لشعبك.";
     if (new DatePeriod(NewDate(5, 11), NewDate(10, 11)).IsDuring(today))
     {
         engText = $"Bless the air of heaven. {seasonEndEng}";
         copText = $"Ⲥ\u0300ⲙⲟⲩ ⲉ\u0300ⲛⲓⲁ\u0300ⲏⲣ ⲛ\u0300ⲧⲉ ⲧ\u0300ⲫⲉ: {seasonEndCop}";
+        araText = $"بارك اهوية السماء. {seasonEndAra}";
     }
     else if (new DatePeriod(NewDate(10, 12), NewDate(2, 9, year + 1)).IsDuring(today))
     {
         engText = $"Bless the water of the rivers. {seasonEndEng}";
         copText = $"Ⲥ\u0300ⲙⲟⲩ ⲉ\u0300ⲛⲓⲙⲱⲟⲩ ⲙ\u0300ⲫ\u0300ⲓⲁⲣⲟⲩ: {seasonEndCop}";
+        araText = $"بارك مياه النهر. {seasonEndAra}";
+        
     }
     else if (new DatePeriod(NewDate(2, 10), NewDate(5, 10)).IsDuring(today))
     {
-        engText = $"Bless the seed and the herbs. {seasonEndEng}";
+        engText = $"Bless the seeds and the herbs. {seasonEndEng}";
         copText = $"Ⲥ\u0300ⲙⲟⲩ ⲉ\u0300ⲛⲓⲥⲓϯ ⲛⲉⲙ ⲛⲓⲥⲓⲙ: {seasonEndCop}";
+        araText = $"بارك الزروع والعشب. {seasonEndAra}";
     }
     else
     {
