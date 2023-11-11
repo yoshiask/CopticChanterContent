@@ -14,21 +14,39 @@
         <Const Id="11" DocumentKey="urn:tasbehaorg-cr:108">12</Const>
         <Const Id="12" DocumentKey="28c70071-ce5e-4add-aa5c-d093acfb2755">14</Const>
         <Const Id="14" DocumentKey="28c70071-ce5e-4add-aa5c-d093acfb2774">15</Const>
-        <Const Id="15" DocumentKey="urn:tasbehaorg:111">17</Const>
+        <Const Id="15" DocumentKey="urn:tasbehaorg:111">16</Const>
+        <Const Id="16" DocumentKey="urn:tasbehaorg-cr:127">17</Const>
 
-        <Script Id="17" DocumentKey="urn:tasbehaorg-cr:127">
+        <!-- Psalis -->
+        <Script Id="17">
 <![CDATA[
-// TODO: Add various psalis
+// Node IDs of the weekly psalis are purposely grouped together
+// in order, starting at ID 1700 for Sunday.
 public override int? Execute(LoadContextBase? context) =>
-    (int) context!.CurrentDate.DayOfWeek + 200;
-// Node IDs of the Theotokia are purposely grouped together
-// in order, starting at ID 200 for Sunday.
+    (int) context!.CurrentDate.DayOfWeek + 1700;
 ]]>
         </Script>
-
+        <Const Id="1700" DocumentKey="urn:tasbehaorg-cr:112">1710</Const>
+        <Const Id="1710" DocumentKey="urn:tasbehaorg-cr:174">20</Const>
+        <Const Id="1701" DocumentKey="urn:tasbehaorg-cr:352">20</Const>
+        <Const Id="1702" DocumentKey="urn:tasbehaorg-cr:351">20</Const>
+        <Const Id="1703" DocumentKey="urn:tasbehaorg-cr:356">20</Const>
+        <Const Id="1704" DocumentKey="urn:tasbehaorg-cr:466">20</Const>
+        <Const Id="1705" DocumentKey="urn:tasbehaorg-cr:384">20</Const>
+        <Const Id="1706" DocumentKey="urn:tasbehaorg-cr:362">20</Const>
+        
         <!-- Theotokias -->
+        <Script Id="20">
+<![CDATA[
+// Node IDs of the Theotokia are purposely grouped together
+// in order, starting at ID 200 for Sunday.
+public override int? Execute(LoadContextBase? context) =>
+    (int) context!.CurrentDate.DayOfWeek + 200;
+]]>
+        </Script>
         <Const Id="204" DocumentKey="urn:tasbehaorg-cr:471">29</Const>
         <Const Id="205" DocumentKey="urn:tasbehaorg-cr:146">29</Const>
+        <Const Id="206" DocumentKey="urn:tasbehaorg-cr:359">29</Const>
 
         <Const Id="29" DocumentKey="urn:tasbehaorg-cr:1929">32</Const>
         <Const Id="32" DocumentKey="urn:tasbehaorg-cr:147">37</Const>

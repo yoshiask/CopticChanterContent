@@ -26,6 +26,8 @@ Watos Psali for the Holy Great Fast
 The Thursday Theotokia
 /20 5 Friday.xml
 The Friday Theotokia
+/20 6 Saturday.xml
+The Saturday Theotokia
 /27 5 Friday.xml
 The Friday Watos Lobsh
 /29.xml
@@ -36,3 +38,19 @@ Conclusion of the Midnight Psalmody
 Concluding Hymn
 /42.xml
 The Morning Doxologies
+/Psali 0 Sunday 1.xml
+The First Sunday Psali
+/Psali 0 Sunday 2.xml
+The Second Sunday Psali
+/Psali 1 Monday.xml
+The Monday Psali
+/Psali 2 Tuesday.xml
+The Tuesday Psali
+/Psali 3 Wednesday.xml
+The Wednesday Psali
+/Psali 4 Thursday.xml
+The Thursday Psali
+/Psali 5 Friday.xml
+The Friday Psali
+/Psali 6 Saturday.xml
+The Saturday Psali
