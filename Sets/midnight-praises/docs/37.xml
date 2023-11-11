@@ -27,18 +27,18 @@
             <Stanza Role="People">Ⲁⲙⲏⲛ ⲉⲥⲉ&#x0300;ϣⲱⲡⲓ.</Stanza>
         </Translation>
 
-        <Translation Title="الختام" Language="Arabic">
+        <!-- <Translation Title="الختام" Language="Arabic">
             <Stanza>آمين، هلليلويا. المجد للآب والإبن والروح القدس،.</Stanza>
             <Stanza>الآن وكل أوان وإلى دهر الدهور، آمين.</Stanza>
             <Stanza>نصرخ قائلين: "يا ربنا يسوع المسيح</Stanza>
-            <!-- <Section Source="\def{Proclamation}"/> -->
+            <Section Source="\def{Proclamation}"/>
             <Stanza/>
             <Stanza>خلصنا وإرحمنا."</Stanza>
             <Stanza>يا ربُّ إرحَم، يا ربُّ إرحَم، يا رب بارك آمين. باركوا عليَّ، باركوا عليَّ، ها مطانية، إغفروا لي، قُل البركة.</Stanza>
 
             <Stanza Role="Priest">أيها المسيحُ إلهُنا.</Stanza>
             <Stanza Role="People">آمين يكونُ.</Stanza>
-        </Translation>
+        </Translation> -->
     </Translations>
 
     <Definitions>
