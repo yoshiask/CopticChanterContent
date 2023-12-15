@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Document>
+    <Name>Communion Hymn [Nativity, Malankara]</Name>
+    <Key>urn:mosc:communion-hymn:nativity-feast</Key>
+    <Translations>
+        <Translation Language="en" Title="Concluding Hymn">
+            <Comment Type="Tune">Tone 1</Comment>
+            <Stanza>Great is Christ who guarded the Church / Through His divine birth as a man / Today, the Heir is incarnate / Those who were bound by sin sing praise: / "Glory to the Son of Mary" / Today, gentiles are reconciled, / The wise have been granted a home, / Doubters have seen with clarity</Stanza>
+            <Section Source="\def{Refrain}"/>
+            <Stanza>As Isaiah has prophesied / Today, the Virgin bore a Son / Let us all sing praise to our Lord: / "Praise to You this day of Your birth" / As Zacha'ri'ah prophesied / "The Morning Light has come to us"</Stanza>
+            <Stanza>Those on earth and those in heaven / Praise Christ on this day of His birth / Today, the Church which was weakened / Raised her head to see her Savior / Today, our long-standing bondage / Is made distant by the Son's birth / Lord, You have restored the image / Which had been rotting in Sheol / Today, those who came as strangers / Were made heirs and granted a home</Stanza>
+            <Stanza>The Creator has been revealed / Today, He put idols to shame / Today, has come the Physician / To grant healing to all the sick / Today, the fortress of Satan / Has been destroyed and abandoned / Today, the Son of the Virgin / Became the Savior of the world / We cry aloud, Lord, and sing praise / "O Bless'ed Child, Glory to You!"</Stanza>
+        </Translation>
+    </Translations>
+
+    <Definitions>
+        <Translations Key="Refrain">
+            <Run Language="English">We, His servants, cry out and sing: / "Glory to the Incarnate Son."</Run>
+        </Translations>
+    </Definitions>
+</Document>
