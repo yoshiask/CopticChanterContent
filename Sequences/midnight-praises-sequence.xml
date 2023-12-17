@@ -18,12 +18,11 @@
         <Const Id="16" DocumentKey="urn:tasbehaorg-cr:127">17</Const>
 
         <!-- Psalis -->
-        <Script Id="17">
+        <Script Id="17" TypeId="lua">
 <![CDATA[
-// Node IDs of the weekly psalis are purposely grouped together
-// in order, starting at ID 1700 for Sunday.
-public override int? Execute(LoadContextBase? context) =>
-    (int) context!.CurrentDate.DayOfWeek + 1700;
+-- Node IDs of the weekly psalis are purposely grouped together
+-- in order, starting at ID 1700 for Sunday.
+return dayOfWeek() + 1700;
 ]]>
         </Script>
         <Const Id="1700" DocumentKey="urn:tasbehaorg-cr:112">1710</Const>
@@ -36,12 +35,11 @@ public override int? Execute(LoadContextBase? context) =>
         <Const Id="1706" DocumentKey="urn:tasbehaorg-cr:362">20</Const>
         
         <!-- Theotokias -->
-        <Script Id="20">
+        <Script Id="20" TypeId="lua">
 <![CDATA[
-// Node IDs of the Theotokia are purposely grouped together
-// in order, starting at ID 200 for Sunday.
-public override int? Execute(LoadContextBase? context) =>
-    (int) context!.CurrentDate.DayOfWeek + 200;
+-- Node IDs of the Theotokia are purposely grouped together
+-- in order, starting at ID 200 for Sunday.
+return dayOfWeek() + 200;
 ]]>
         </Script>
         <Const Id="204" DocumentKey="urn:tasbehaorg-cr:471">29</Const>
