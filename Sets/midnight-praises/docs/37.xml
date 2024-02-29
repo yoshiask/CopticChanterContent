@@ -201,6 +201,8 @@ var res = new TranslationRunCollection("Proclamation");
 res.AddText(engText, KnownLanguage.English);
 res.AddText(copText, KnownLanguage.Coptic);
 //res.AddText(araText, KnownLanguage.Arabic);
+
+return res;
 ]]>
         </Script>
     </Definitions>
