@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-16"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Document>
     <Name>The Hymn of the Ten Strings</Name>
-    <Uuid>urn:tasbehaorg-cr:1216</Uuid>
+    <Key>urn:tasbehaorg-cr:1216</Key>
     <Translations>
         <Translation Language="English" Title="The Hymn of the Ten Strings">
             <Stanza>Today, this Virgin has recieved honor. / Today, this bride has recieved glory. / She who is clothed in golden fringes / embroidered in many colors.</Stanza>
