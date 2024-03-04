@@ -2,7 +2,7 @@
 <Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Name>Hymn of the Seven Tunes</Name>
-    <Uuid>urn:suscopts:seven-tunes</Uuid>
+    <Key>urn:suscopts:seven-tunes</Key>
     <Translations>
         <Translation Title="Hymn of the Seven Tunes" Language="English">
             <Section Title="For Our Lord Jesus Christ">
@@ -42,7 +42,6 @@
                 <Stanza>That anoints every day, the elders, the children and young men, and the deacons.</Stanza>
                 
                 <Comment Type="Tune">"Through Mary"</Comment>
-                <Comment Type="Tune">\def{StdTune}</Comment>
                 <Stanza>Those whom the Holy Spirit, has attuned together, as a stringed instrument, always blessing God.</Stanza>
                 <Stanza>By psalms and hymns, and spiritual songs, by day and by night, with an incessant heart.</Stanza>
             </Section>
