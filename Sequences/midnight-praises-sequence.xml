@@ -42,7 +42,9 @@ return dayOfWeek() + 1700;
 day = dayOfWeek()
 if day < 204 then
     return 29
-return dayOfWeek() + 200;
+else
+    return dayOfWeek() + 200
+end
 ]]>
         </Script>
         <Const Id="204" DocumentKey="urn:tasbehaorg-cr:471">29</Const>
