@@ -39,6 +39,9 @@ return dayOfWeek() + 1700;
 <![CDATA[
 -- Node IDs of the Theotokia are purposely grouped together
 -- in order, starting at ID 200 for Sunday.
+day = dayOfWeek()
+if day < 204 then
+    return 29
 return dayOfWeek() + 200;
 ]]>
         </Script>
