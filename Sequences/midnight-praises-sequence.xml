@@ -26,31 +26,54 @@ end
 
 local today = context.CurrentDate
 if CopticCalendar.GreatFast(today.Year):IsDuring(today) then
+    -- Great Lent has its own psali. Always use this one for weekdays.
     return 1707
 end
 
--- Node IDs of the weekly psalis are purposely grouped together
--- in order, starting at ID 1700 for Sunday.
+-- Node IDs of the annual weekly psalis are purposely grouped
+-- together in order, starting at ID 1700 for Sunday.
 return dayOfWeek() + 1700
 ]]>
         </Script>
         <Const Id="1700" DocumentKey="urn:tasbehaorg-cr:112">1710</Const>
-        <Const Id="1710" DocumentKey="urn:tasbehaorg-cr:174">20</Const>
-        <Const Id="1701" DocumentKey="urn:tasbehaorg-cr:352">20</Const>
-        <Const Id="1702" DocumentKey="urn:tasbehaorg-cr:351">20</Const>
-        <Const Id="1703" DocumentKey="urn:tasbehaorg-cr:356">20</Const>
-        <Const Id="1704" DocumentKey="urn:tasbehaorg-cr:466">20</Const>
-        <Const Id="1705" DocumentKey="urn:tasbehaorg-cr:384">20</Const>
-        <Const Id="1706" DocumentKey="urn:tasbehaorg-cr:362">20</Const>
-        <Const Id="1707" DocumentKey="urn:tasbehaorg-cr:703">20</Const> <!-- Great Fast -->
+        <Const Id="1710" DocumentKey="urn:tasbehaorg-cr:174">19</Const>
+        <Const Id="1701" DocumentKey="urn:tasbehaorg-cr:352">19</Const>
+        <Const Id="1702" DocumentKey="urn:tasbehaorg-cr:351">19</Const>
+        <Const Id="1703" DocumentKey="urn:tasbehaorg-cr:356">19</Const>
+        <Const Id="1704" DocumentKey="urn:tasbehaorg-cr:466">19</Const>
+        <Const Id="1705" DocumentKey="urn:tasbehaorg-cr:384">19</Const>
+        <Const Id="1706" DocumentKey="urn:tasbehaorg-cr:362">19</Const>
+        <Const Id="1707" DocumentKey="urn:tasbehaorg-cr:703">19</Const> <!-- Great Fast -->
         
         <!-- Theotokias -->
+        <Script Id="19" TypeId="lua">
+<![CDATA[
+if context == nil then
+    return null
+end
+
+day = dayOfWeek()
+local adam = 190
+local watos = 191
+
+-- Watos for Wednesday through Saturday
+-- Adam for Sunday through Tuesday
+if day <= 3 and day >= 6 then
+    return watos
+else
+    return adam
+end
+]]>
+        </Script>
+        <Const Id="190" DocumentKey="urn:suscopts:adam-theotokia-intro">20</Const>
+        <Const Id="191" DocumentKey="urn:suscopts:watos-theotokia-intro">20</Const>
         <Script Id="20" TypeId="lua">
 <![CDATA[
 -- Node IDs of the Theotokia are purposely grouped together
 -- in order, starting at ID 200 for Sunday.
 day = dayOfWeek()
 if day < 204 then
+    -- Adam Theotokias aren't included yet, skip them for now
     return 29
 else
     return dayOfWeek() + 200

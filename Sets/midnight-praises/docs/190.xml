@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+    <Name>Introduction to the Adam Theotokia</Name>
+    <Key>urn:suscopts:adam-theotokia-intro</Key>
+    <Translations>
+        <Translation Language="English" Title="Introduction to the Adam Theotokia">
+            <Stanza>And whenever we, gather for prayer, let us bless the name, of my Lord Jesus.</Stanza>
+            <Stanza>We bless You, O my Lord Jesus, deliver us through Your Name, for we have hope in You.</Stanza>
+            <Stanza>That we may praise You, with Your good Father, and the Holy Spirit, for You have come and saved us.</Stanza>
+            <Stanza>Glory be to the Father and the Son, and the Holy Spirit, now and forever and unto, the age of all ages: Amen.</Stanza>
+        </Translation>
+        <Translation Language="Coptic" Title="Ⲗⲟⲓⲡⲟⲛ ⲁⲛϣⲁⲛⲑⲱⲟⲩϯ">
+            <Stanza>Ⲗⲟⲓⲡⲟⲛ ⲁⲛϣⲁⲛⲑⲱⲟⲩϯ: ⲉ̀ϯⲡ̀ⲣⲟⲥⲉⲩⲭⲏ: ⲙⲁⲣⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲓⲣⲁⲛ: ⲛ̀ⲧⲉ Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ.</Stanza>
+            <Stanza>Ϫⲉ ⲧⲉⲛⲛⲁⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ: ⲱ̀ Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲛⲁϩⲙⲉⲛ ϧⲉⲛ ⲡⲉⲕⲣⲁⲛ: ϫⲉ ⲁⲛⲉⲣϩⲉⲗⲡⲓⲥ ⲉ̀ⲣⲟⲕ.</Stanza>
+            <Stanza>Ⲉⲑⲣⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ϫⲉ ⲁⲕⲓ̀ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ</Stanza>
+            <Stanza>Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ: ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ: ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ: ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ ⲁ̀ⲙⲏⲛ.</Stanza>
+        </Translation>
+        <Translation Language="Arabic" Title="مقدمة الثيؤطوكية">
+            <Stanza>وأيضاً إذا ما إجتمعنا، للصلاة، فلنبارك إسم، ربي يسوع.</Stanza>
+            <Stanza>لأننا نباركك، يا ربي يسوع، نجنا بإسمك، لأننا توكلنا عليك.</Stanza>
+            <Stanza>لكي نسبحك، مع أبيك الصالح، والروح القدس، لأنك (قُمت/أتيت) وخلصتنا.</Stanza>
+            <Stanza>المجد للآب والإبن، والروح القدوس، الآن وكل أوان، وإلى دهر الدهور آمين.</Stanza>
+        </Translation>
+    </Translations>
+</Document>
