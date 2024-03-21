@@ -25,7 +25,7 @@ if context == nil then
 end
 
 local today = context.CurrentDate
-if CopticCalendar.GreatFast(year):IsDuring(today) then
+if CopticCalendar.GreatFast(today.Year):IsDuring(today) then
     return 1707
 end
 
