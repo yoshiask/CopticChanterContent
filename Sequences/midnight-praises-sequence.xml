@@ -20,9 +20,18 @@
         <!-- Psalis -->
         <Script Id="17" TypeId="lua">
 <![CDATA[
+if context == nil then
+    return null
+end
+
+local today = context.CurrentDate
+if CopticCalendar.GreatFast(year):IsDuring(today) then
+    return 1707
+end
+
 -- Node IDs of the weekly psalis are purposely grouped together
 -- in order, starting at ID 1700 for Sunday.
-return dayOfWeek() + 1700;
+return dayOfWeek() + 1700
 ]]>
         </Script>
         <Const Id="1700" DocumentKey="urn:tasbehaorg-cr:112">1710</Const>
@@ -33,6 +42,7 @@ return dayOfWeek() + 1700;
         <Const Id="1704" DocumentKey="urn:tasbehaorg-cr:466">20</Const>
         <Const Id="1705" DocumentKey="urn:tasbehaorg-cr:384">20</Const>
         <Const Id="1706" DocumentKey="urn:tasbehaorg-cr:362">20</Const>
+        <Const Id="1707" DocumentKey="urn:tasbehaorg-cr:703">20</Const> <!-- Great Fast -->
         
         <!-- Theotokias -->
         <Script Id="20" TypeId="lua">
