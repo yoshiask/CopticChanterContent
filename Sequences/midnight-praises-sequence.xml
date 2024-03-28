@@ -48,17 +48,13 @@ return dayOfWeek() + 1700
         <!-- Theotokias -->
         <Script Id="19" TypeId="lua">
 <![CDATA[
-if context == nil then
-    return null
-end
-
 day = dayOfWeek()
 local adam = 190
 local watos = 191
 
 -- Watos for Wednesday through Saturday
 -- Adam for Sunday through Tuesday
-if day <= 3 and day >= 6 then
+if day >= 3 and day <= 6 then
     return watos
 else
     return adam
