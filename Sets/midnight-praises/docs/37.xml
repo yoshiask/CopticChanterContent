@@ -140,19 +140,8 @@ else if (today == CopticCalendar.Annunciation(year))
 }
 else if (CopticCalendar.GreatFast(year).IsDuring(today))
 {
-    // Lazarus Saturday isn't included in this?
-    if (today.DayOfWeek is IsoDayOfWeek.Sunday or IsoDayOfWeek.Saturday)
-    {
-        engText = "O You who fasted for us forty days and forty nights to save us from our sins.";
-        copText = "Ⲫⲏⲉ\u0300ⲧⲁⲩϥⲉⲣⲛⲏⲥⲧⲉⲩⲓⲛ ⲉ\u0300ϩ\u0300ⲣⲏⲓ ⲉ\u0300ϫⲱⲛ ⲛ\u0300ϩ\u0300ⲙⲉ ⲛ\u0300ⲉ\u0300ϩⲟⲟⲩ ⲛⲉⲙ ϩ\u0300ⲙⲉ ⲛ\u0300ⲉ\u0300ϫⲱⲣϩ: ϣⲁ ⲛ\u0300ⲧⲉϥⲥⲟⲧⲧⲉⲛ ϧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ:";
-    }
-    else
-    {
-        // Weekdays of the Great Lent have a completely different hymn. This is just here for thoroughness.
-        engText = "The Body and Blood of the only-begotten God; having partaken, let us give thanks to him.";
-        copText = "Ⲥⲱⲙⲁⲧⲟⲥ ⲕⲉ ⲏ\u0300ⲙⲁⲧⲟⲥ ⲙⲟⲛⲟⲅⲉⲛⲏⲥ Ⲑⲉⲟⲩ ⲙⲁⲧⲁ\u0300ⲗⲁⲃⲟⲛⲧⲟⲥ ⲁⲩⲧⲱ ⲉⲩⲭⲁⲣⲓⲥⲧⲏⲥⲱⲙⲉⲛ.";
-    }
-    goto done;
+    engText = "O You who fasted for us forty days and forty nights to save us from our sins.";
+    copText = "Ⲫⲏⲉ\u0300ⲧⲁⲩϥⲉⲣⲛⲏⲥⲧⲉⲩⲓⲛ ⲉ\u0300ϩ\u0300ⲣⲏⲓ ⲉ\u0300ϫⲱⲛ ⲛ\u0300ϩ\u0300ⲙⲉ ⲛ\u0300ⲉ\u0300ϩⲟⲟⲩ ⲛⲉⲙ ϩ\u0300ⲙⲉ ⲛ\u0300ⲉ\u0300ϫⲱⲣϩ: ϣⲁ ⲛ\u0300ⲧⲉϥⲥⲟⲧⲧⲉⲛ ϧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ:";
 }
 
 var ressurection = CopticCalendar.Resurrection(year);
