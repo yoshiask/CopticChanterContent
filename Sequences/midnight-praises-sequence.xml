@@ -68,7 +68,7 @@ end
 -- Node IDs of the Theotokia are purposely grouped together
 -- in order, starting at ID 200 for Sunday.
 day = dayOfWeek()
-if day < 204 then
+if day < 3 then
     -- Adam Theotokias aren't included yet, skip them for now
     return 29
 else
