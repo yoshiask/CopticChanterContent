@@ -21,14 +21,16 @@
             <Stanza>Hail to the whole choir, of the martyrs, hail to Abba Antony, and the three Macarii.</Stanza>
             <Stanza>Hail to the whole choir, of the cross-bearers, hail to all the saints, who have pleased the Lord.</Stanza>
             <Stanza>Through their prayers, O Christ our King, have mercy upon us, in Your kingdom.</Stanza>
-            <Stanza>Jesus Christ is the same yesterday, today and forever, in one hypostasis, we worship Him and glorify Him.</Stanza>
-            <Stanza>O King of peace, grant us your peace, establish for us your peace, and forgive us our sins.</Stanza>
-            <Stanza>Disperse the enemies, of the Church, and fortify her, that she may not be shaken forever.</Stanza>
-            <Stanza>Immanuel our God, is now in our midst, with the glory of His Father, and the Holy Spirit.</Stanza>
-            <Stanza>May He bless us all, and purify our hearts, and heal the sicknesses, of our souls and bodies.</Stanza>
-            <Stanza>We worship You, O Christ, with Your good Father, and the Holy Spirit, for You were born and saved us. Have mercy on us.</Stanza>
+            <Section>
+                <Stanza>Jesus Christ is the same yesterday, today and forever, in one hypostasis, we worship Him and glorify Him.</Stanza>
+                <Stanza>O King of peace, grant us your peace, establish for us your peace, and forgive us our sins.</Stanza>
+                <Stanza>Disperse the enemies, of the Church, and fortify her, that she may not be shaken forever.</Stanza>
+                <Stanza>Immanuel our God, is now in our midst, with the glory of His Father, and the Holy Spirit.</Stanza>
+                <Stanza>May He bless us all, and purify our hearts, and heal the sicknesses, of our souls and bodies.</Stanza>
+                <Stanza>We worship You, O Christ, with Your good Father, and the Holy Spirit, for You were born and saved us. Have mercy on us.</Stanza>
+            </Section>
         </Translation>
-        <Translation Key="CopticTranslation" Title="" Language="Coptic">
+        <Translation Title="Ⲛⲓⲥ̀ⲧⲟⲓⲭⲟⲛ ⲛ̀ⲧⲉ ⲡⲓϣ̀ⲕⲉⲗⲕⲓⲗ" Language="Coptic">
             <Stanza>Ⲁ̀ⲙⲱⲓⲛⲓ ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ: ⲛ̀Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲑⲟⲩⲁⲃ: ⲉ̀ⲧⲉ Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ.</Stanza>
             <Stanza>Ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲓⲗⲁⲟⲥ: ⲛ̀ⲭ̀ⲣⲓⲥⲧⲓⲁⲛⲟⲥ: ⲫⲁⲓ ⲅⲁⲣ ⲡⲉ Ⲡⲉⲛⲛⲟⲩϯ: ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲟⲥ.</Stanza>
             <Stanza>Ⲟⲩⲟⲛ ⲟⲩϩⲉⲗⲡⲓⲥ ⲛ̀ⲧⲁⲛ: ϧⲉⲛ ⲑⲏⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: ⲉ̀ⲣⲉ Ⲫ̀ϯ ⲛⲁⲓ ⲛⲁⲛ: ϩⲓⲧⲉⲛ ⲛⲉⲥⲡ̀ⲣⲉⲥⲃⲓⲁ.</Stanza>
