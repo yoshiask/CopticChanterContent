@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Palm Sunday Procession</Name>
+    <Key>urn:suscopts:palm-sunday-procession</Key>
+    <Translations>
+        <Translation Title="Procession Gospel Responses" Language="English">
+            <Section Title="The First">
+                <Stanza>The four Incorporeal Creatures / who carry the chariot of the Lord / a face of lion, a face of an ox / a face of man and a face of an eagle.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="The Second">
+                <Stanza>We exalt you worthily, / with Elizabeth your cousin: / saying, "Blessed are you among women, / blessed is the fruit of your womb."</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="The Third">
+                <Stanza>Gabriel the angel, / Daniel saw / standing on his feet, / by the riverbank.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="The Fourth">
+                <Stanza>Michael, the head of the heavenly, / he is the first / among the angelic ranks / serving before the Lord.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="The Fifth">
+                <Stanza>O Mark the Apostle / and the Evangelist, / the witness to the Passion / of the only-begotten God.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="The Sixth">
+                <Stanza>Jesus Christ sent you, O twelve apostles, to preach in the nations, making them Christians.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="The Seventh">
+                <Stanza>Saint George completed / seven whole years, / being judged daily / by seventy lawless kings.</Stanza>
+                <Stanza>Hail to you O martyr: hail to the couragous hero: hail to the struggle-bearer: (...).</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="The Eighth">
+                <Stanza>Purge from your hearts / thoughts of vice / and deceiving ideas / that darken the mind.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="The Ninth">
+                <Stanza>When You come in Your second, fearful appearance, do not let us fearfully hear, "I do not know you."</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="The Tenth">
+                <Stanza>John has borne witness / in the four Gospels, / saying "I have baptized my Savior / in the waters of the Jordan."</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="The Eleventh">
+                <Stanza>He who sits upon the Cherubim, / on the throne of His glory, / entered into Jerusalem; / what is this great humility?</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="The Twelfth">
+                <Stanza>Among those born of women / no one is like you. / You are great among all the saints, / O John the Baptist.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+        </Translation>
+        <Translation Title="" Language="Coptic">
+            <Section Title="Ⲡⲓϣⲟⲙⲧ">
+                <Stanza>Ⲡⲓϥ̀ⲧⲟⲟⲩ ⲛ̀ⲍⲱⲟⲛ ⲛ̀ⲁ̀ⲥⲱⲙⲁⲧⲟⲥ: ⲉⲧϥⲁⲓ ϧⲁ ⲡⲓϩⲁⲣⲙⲁ ⲛ̀ⲧⲉ \abv{fti}: ⲟⲩϩⲟ ⲙ̀ⲙⲟⲩⲓ̀ ⲛⲉⲙ ⲟⲩϩⲟ ⲙ̀ⲙⲁⲥⲓ: ⲟⲩϩⲟ ⲛ̀ⲣⲱⲙⲓ ⲛⲉⲙ ⲟⲩϩⲟ ⲛ̀ⲁ̀ⲏⲧⲟⲥ.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="Ⲡⲓⲙⲁϩⲥ̀ⲛⲁⲩ">
+                <Stanza>Ⲧⲉⲛϭⲓⲥⲓ ⲙ̀ⲙⲟ ϧⲉⲛ ⲟⲩⲉⲙⲡ̀ϣⲁ: ⲛⲉⲙ Ⲉ̀ⲗⲓⲥⲁⲃⲉⲧ ⲧⲉⲥⲩⲅⲅⲉⲛⲏⲥ: ϫⲉ ⲧⲉⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ⲑⲟ ϧⲉⲛ ⲛⲓϩⲓⲟ̀ⲙⲓ: ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲡ̀ⲟⲩⲧⲁϩ ⲛ̀ⲧⲉ ⲧⲉⲛⲉϫⲓ.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="Ⲡⲓⲙⲁϩϣⲟⲙⲧ">
+                <Stanza>Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲓⲁ̀ⲅⲅⲉⲗⲟⲥ: ⲁϥⲛⲁⲩ ⲉ̀ⲣⲟϥ ⲛ̀ϫⲉ Ⲇⲁⲛⲓⲏⲗ: ⲉϥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧϥ ϩⲓϫⲉⲛ ⲛⲉϥⲫⲁⲧ: ϩⲓϫⲉⲛ ⲛⲉⲛⲥ̀ⲫⲟⲧⲟⲩ ⲙ̀ⲫ̀ⲓⲁⲣⲟ.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="Ⲡⲓⲙⲁϩϥ̀ⲧⲟⲟⲩ">
+                <Stanza>Ⲙⲓⲭⲁⲏⲗ ⲡ̀ⲁ̀ⲣⲭⲱⲛ ⲛ̀ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ̀: ⲛ̀ⲑⲟϥ ⲉⲧⲟⲓ ⲛ̀ϣⲟⲣⲡ: ϧⲉⲛ ⲛⲓⲧⲁⲝⲓⲥ ⲛ̀ⲁ̀ⲅⲅⲉⲗⲓⲕⲟⲛ: ⲉϥϣⲉⲙϣⲓ ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲙ̀Ⲡ\abv{oc}.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="Ⲡⲓⲙⲁϩⲧ̀ⲓⲟⲩ">
+                <Stanza>Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲟⲩⲟϩ ⲡⲓⲉ̀ⲩⲁ̀ⲅⲅⲉⲗⲓⲥⲧⲏⲥ: ⲡⲓⲙⲉⲑⲣⲉ ϧⲁ ⲛⲓⲙ̀ⲕⲁⲩϩ: ⲛ̀ⲧⲉ ⲡⲓⲙⲟⲛⲟⲅⲉⲛⲏⲥ Ⲛ̀ⲛⲟⲩϯ.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="Ⲡⲓⲙⲁϩⲥⲟⲟⲩ">
+                <Stanza>\abv{ic} \abv{pxc} ⲁϥⲟⲩⲱⲣⲡ ⲙ̀ⲙⲱⲧⲉⲛ: ⲱ̀ ⲡⲓⲙⲏⲧⲥ̀ⲛⲁⲩ (ⲓ̅ⲃ̅) ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲉ̀ⲧⲉⲧⲉⲛ ϩⲓⲱⲓϣ ϧⲉⲛ ⲛⲓⲉⲑⲛⲟⲥ: ⲉ̀ⲣⲉⲧⲉⲛ ⲁⲓⲧⲟⲩ ⲛ̀ⲭ̀ⲣⲏⲥⲧⲓⲁ̀ⲛⲟⲥ.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="Ⲡⲓⲙⲁϩϣⲁϣϥ">
+                <Stanza>Ϣⲁϣϥ (ⲍ̅) ⲛ̀ⲣⲟⲙⲡⲓ ⲁϥϫⲟⲕⲟⲩ ⲉ̀ⲃⲟⲗ: ⲛ̀ϫⲉ ⲫⲏ\abv{ethu} Ⲅⲉⲱⲣⲅⲓⲟⲥ: ⲉ̀ⲣⲉ ⲡⲓϣ̀ⲃⲉ ⲛ̀ⲟⲩⲣⲟ ⲛ̀ⲁⲛⲟⲙⲟⲥ: ⲉⲩϯϩⲁⲡ ⲉⲣⲟϥ ⲙ̀ⲙⲏⲛⲓ.</Stanza>
+                <Stanza>Ⲭⲉⲣⲉ ⲛⲁⲕ ⲱ ⲡⲓⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ ⲡⲓϣⲱⲓϫ ⲛ&#x0300;ⲅⲉⲛⲛⲉⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲁⲑⲗⲟⲫⲟⲣⲟⲥ: (...).</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="Ⲡⲓⲙⲁϩϣ̀ⲙⲏⲛ">
+                <Stanza>Ⲃⲱⲗ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲉⲧⲉⲛϩⲏⲧ: ⲛ̀ⲛⲓⲙⲟⲕⲙⲉⲕ ⲛ̀ⲧⲉ ϯⲭⲁⲕⲓ̀ⲁ: ⲛⲉⲙ ⲛⲓⲙⲉⲩⲓ̀ ⲉⲧϣⲉⲃϣⲱⲃ: ⲉⲧⲓ̀ⲣⲓ ⲙ̀ⲡⲓⲛⲟⲩⲥ ⲛ̀ⲭⲁⲕⲓ.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="Ⲡⲓⲙⲁϩⲯⲓⲧ">
+                <Stanza>Ⲁⲕϣⲁⲛⲓ̀ ϧⲉⲛ ⲧⲉⲕⲙⲁϩⲥ̀ⲛⲟⲩϯ: ⲙ̀ⲡⲁⲣⲟⲩⲥⲓⲁ̀ ⲉⲧⲟⲓ ⲛ̀ϩⲟϯ: ⲙ̀ⲡⲉⲛⲑ̀ⲣⲉⲛⲥⲱⲧⲉⲙ ϧⲉⲛ ⲟⲩⲥ̀ⲑⲉⲣⲧⲉⲣ: ϫⲉ ϯⲥⲱⲟⲩⲛ ⲙ̀ⲙⲱⲧⲉⲛ ⲁⲛ.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="Ⲡⲓⲙⲁϩⲙⲏⲧ">
+                <Stanza>Ⲁϥⲉⲣⲙⲉⲑⲣⲉ ⲛ̀ϫⲉ Ⲓⲱⲁⲛⲛⲏⲥ: ϧⲉⲛ ⲡⲓϥ̀ⲧⲟⲟⲩ (ⲇ̅) ⲛ̀ⲉ̀ⲩⲁ̀ⲅⲅⲉⲗⲓⲟⲛ: ϫⲉ ⲁⲓϯⲱⲙⲥ ⲙ̀ⲡⲁⲤⲱⲧⲏⲣ: ϧⲉⲛ ⲛⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ ⲡⲓⲒⲟⲣⲇⲁⲛⲏⲥ.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="Ⲡⲓⲙⲁϩⲙⲏⲧⲟⲩⲁⲓ">
+                <Stanza>Ⲫⲏⲉⲧϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ ⲛⲓⲬⲉⲣⲟⲩⲃⲓⲙ: ϩⲓϫⲉⲛ ⲡⲓⲑ̀ⲣⲟⲛⲟⲥ ⲛ̀ⲧⲉ ⲡⲉϥⲱ̀ⲟⲩ : ⲁϥϣⲉ ⲉ̀ϧⲟⲩⲛ ⲉ̀Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ: ⲟⲩⲡⲉ ⲡⲁⲓⲛⲓϣϯ ⲛ̀ⲑⲉⲃⲓⲟ̀.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+            <Section Title="Ⲡⲓⲙⲁϩⲙⲏⲧⲥ̀ⲛⲁⲩ">
+                <Stanza>Ⲙ&#x0300;ⲡⲉ ⲟⲩⲟⲛ ⲧⲱⲛϥ ϧⲉⲛ ⲛⲓϫⲓⲛⲙⲓⲥⲓ: ⲛ̀ⲧⲉ ⲛⲓϩⲓⲟⲙⲓ ⲉϥⲟⲛⲓ ⲙ̀ⲙⲟⲕ: ⲛ̀ⲑⲟⲕ ⲟⲩⲛⲓϣϯ ϧⲉⲛ ⲛⲏ\abv{ethu} ⲧⲏⲣⲟⲩ: Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲣⲉϥϯⲱⲙⲥ.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+            </Section>
+        </Translation>
+    </Translations>
+</Document>
