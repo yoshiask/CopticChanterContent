@@ -9,7 +9,7 @@
             <Stanza>We have hope in Saint Mary, that God will have mercy on us, through her intercession.</Stanza>
             <Stanza>All calmness, in the world, is through the prayers, of Saint Mary the Virgin.</Stanza>
             <Section Title="For Palm Sunday">
-                <Stanza>Hosanna in the highest, this is the King of Israel, blessed is He who comes in the name, of the Lord of hosts.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
                 <Stanza>He who sits upon the Cherubim, sat on a donkey, He came into Jerusalem, what is this great humility?</Stanza>
             </Section>
             <Stanza>Hail to the Virgin, who gave birth to our Savior, hail to Gabriel, who announced to her the Good News.</Stanza>
@@ -36,7 +36,7 @@
             <Stanza>Ⲟⲩⲟⲛ ⲟⲩϩⲉⲗⲡⲓⲥ ⲛ̀ⲧⲁⲛ: ϧⲉⲛ ⲑⲏⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: ⲉ̀ⲣⲉ Ⲫ̀ϯ ⲛⲁⲓ ⲛⲁⲛ: ϩⲓⲧⲉⲛ ⲛⲉⲥⲡ̀ⲣⲉⲥⲃⲓⲁ.</Stanza>
             <Stanza>Ⲟⲩⲟⲛ ⲟⲩⲙⲉⲧⲥⲉⲙⲛⲟⲥ: ⲛ̀ϩ̀ⲣⲏⲓ ϧⲉⲛ ⲡⲓⲕⲟⲥⲙⲟⲥ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ ⲡⲓϣ̀ⲗⲏⲗ: ⲛ̀ⲧⲉ ϯⲁ̀ⲅⲓⲁ Ⲙⲁⲣⲓⲁ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ.</Stanza>
             <Section Title="Ⲉⲑⲃⲉ Ⲱⲥⲁⲛⲛⲁ Ϯⲕⲩⲣⲓⲁⲕⲏ">
-                <Stanza>Ⲱ̀ⲥⲁⲛⲛⲁ ϧⲉⲛ ⲛⲏⲉⲧϭⲟⲥⲓ: ⲫⲁⲓ ⲡⲉ Ⲡ̀ⲟⲩⲣⲟ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ: ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ: ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
                 <Stanza>Ⲫⲏⲉⲧϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲁϥⲧⲁⲗⲟϥ ⲉ̀ⲟⲩⲉ̀ⲱ̀: ⲁϥϣⲉ ⲉ̀ϧⲟⲩⲛ ⲉ̀Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ: ⲟⲩ ⲡⲉ ⲡⲁⲓⲛⲓϣϯ ⲛ̀ⲑⲉⲃⲓⲟ.</Stanza>
             </Section>
             <Stanza>Ⲭⲉⲣⲉ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲉ̀ⲧⲁⲥⲙⲉⲥ Ⲡⲉⲛⲥⲱⲧⲏⲣ: ⲭⲉⲣⲉ Ⲅⲁⲃⲣⲓⲏⲗ: ⲉ̀ⲧⲁϥϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛⲁⲥ.</Stanza>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Common Palm Sunday</Name>
+    <Key>urn:coptchnt:common-palm-sunday</Key>
+
+    <Definitions>
+        <Translations Key="HosannaResponse">
+            <Run Language="English">Hosanna in the highest: this is the King of Israel; Blessed is He who comes in the name: of the Lord of Hosts.</Run>
+            <Run Language="Coptic">Ⲱ̀ⲥⲁⲛⲛⲁ ϧⲉⲛ ⲛⲏⲉⲧϭⲟⲥⲓ: ⲫⲁⲓ ⲡⲉ Ⲡ̀ⲟⲩⲣⲟ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ: ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ: ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ.</Run>
+            <Run Langauge="Greek"></Run>
+            <Run Language="Arabic">أوصنا في الأعالي، هذا هو ملك إسرائيل، مبارك الآتي، بإسم رب القوات.</Run>
+        </Translations>
+    </Definitions>
+</Document>
