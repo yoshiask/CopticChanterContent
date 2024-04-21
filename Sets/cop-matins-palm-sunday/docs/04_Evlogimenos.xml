@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Evlogimenos</Name>
+    <Key>urn:suscopts:evlogimenos</Key>
+    <Translations>
+        <Translation Title="The Hymn of Hosanna Sunday" Language="English">
+            <Stanza>Blessed is He who comes in the name of the Lord; again in the name of the Lord.</Stanza>
+            <Stanza>Hosanna to the Son of David; again to the Son of David.</Stanza>
+            <Stanza>Hosanna in the highest; again in the highest.</Stanza>
+            <Stanza>Hosanna to the King of Israel; again to the King of Israel.</Stanza>
+            <Stanza>Let us chant saying: Alleluia, Alleluia, Alleluia.</Stanza>
+            <Stanza>Glory be to our God; again glory be to our God.</Stanza>
+            <Stanza>Hosanan in the highest: this is the King of Israel; Blessed is He who comes in the name: of the Lord of Hosts.</Stanza>
+        </Translation>
+        <Translation Title="Ⲉⲩⲗⲟⲅⲓⲙⲉⲛⲟⲥ" Language="Coptic">
+            <Stanza>Ⲉⲩⲗⲟⲅⲓⲙⲉⲛⲟⲥ ⲟ̀ ⲉⲣⲭⲟⲙⲉⲛⲟⲥ ⲉⲛ ⲟ̀ⲛⲟⲙⲁⲧⲓ Ⲕⲩⲣⲓⲟⲩ: ⲡⲁⲗⲓⲛ ⲉⲛ ⲟ̀ⲛⲟⲙⲁⲧⲓ Ⲕⲩⲣⲓⲟⲩ.</Stanza>
+            <Stanza>Ⲱ̀ⲥⲁⲛⲛⲁ ⲧⲱ Ⲩ̀ⲓⲱ Ⲇⲁⲩⲓⲇ: ⲡⲁⲗⲓⲛ ⲧⲱ Ⲩ̀ⲓⲱ Ⲇⲁⲩⲓⲇ.</Stanza>
+            <Stanza>Ⲱ̀ⲥⲁⲛⲛⲁ ⲉⲛ ⲧⲓⲥ ⲩⲯⲓⲥⲧⲓⲥ: ⲡⲁⲗⲓⲛ ⲉⲛ ⲧⲓⲥ ⲩⲯⲓⲥⲧⲓⲥ.</Stanza>
+            <Stanza>Ⲱ̀ⲥⲁⲛⲛⲁ Ⲃⲁⲥⲓⲗⲓ ⲧⲟⲩ Ⲓⲥⲣⲁⲏⲗ: ⲡⲁⲗⲓⲛ Ⲃⲁⲥⲓⲗⲓ ⲧⲟⲩ Ⲓⲥⲣⲁⲏⲗ.</Stanza>
+            <Stanza>Ⲧⲉⲛⲉⲣⲯⲁⲗⲓⲛ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ: \abv{al} \abv{al} \abv{al}.</Stanza>
+            <Stanza>Ⲡⲓⲱ̀ⲟⲩ ⲫⲁ Ⲡⲉⲛⲛⲟⲩϯ ⲡⲉ: ⲡⲁⲗⲓⲛ ⲡⲓⲱ̀ⲟⲩ ⲫⲁ Ⲡⲉⲛⲛⲟⲩϯ ⲡⲉ.</Stanza>
+            <Stanza>Ⲱ̀ⲥⲁⲛⲛⲁ ϧⲉⲛ ⲛⲏⲉⲧϭⲟⲥⲓ: ⲫⲁⲓ ⲡⲉ Ⲡ̀ⲟⲩⲣⲟ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ: ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ: ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ.</Stanza>
+        </Translation>
+        <Translation Title="Εὐλογίμενος" Language="Greek">
+            <Stanza>Ευλογιμενος ο εχομενος εν ονοματι Κυριου: παλιν εν ονοματι Κυριου.</Stanza>
+            <Stanza>Ωσαννα τω Υιω Δαυιδ: παλιν τω Υιω Δαυιδ.</Stanza>
+            <Stanza>Ωσαννα εν τις υψιστισ: παλιν εν τις υψιστισ.</Stanza>
+            <Stanza>Ωσαννα Βασιλι του Ισραηλ: παλιν Βασιλι του Ισραηλ.</Stanza>
+            <Stanza></Stanza>
+            <Stanza>Δόξᾰ σι ό Θεός ἡμῶν: πᾰ́λῐν δόξᾰ σι ό Θεός ἡμῶν.</Stanza>
+            <Stanza></Stanza>
+        </Translation>
+    </Translations>
+</Document>
