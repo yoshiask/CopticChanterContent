@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Palm Sunday Matins Psalm Response</Name>
+    <Key>urn:suscopts:psalm-response:matins:palm-sunday</Key>
+    <Translations>
+        <Translation Title="Response to the Palm Sunday Matins Psalm" Language="English">
+            <Stanza>\def{PsalmResponseEx}</Stanza>
+        </Translation>
+        <Translation Title="" Language="Coptic">
+            <Stanza>\def{PsalmResponseEx}</Stanza>
+        </Translation>
+    </Translations>
+</Document>

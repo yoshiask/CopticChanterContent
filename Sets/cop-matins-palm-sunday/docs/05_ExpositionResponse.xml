@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Name>Palm Sunday Exposition Response</Name>
-    <Key>urn:suscopts:evlogimenos</Key>
+    <Key>urn:suscopts:exposition-response:palm-sunday</Key>
     <Translations>
         <Translation Title="Response to the Palm Sunday Expositions" Language="English">
             <Stanza>\def{HosannaResponse}</Stanza>
         </Translation>
         <Translation Title="" Language="Coptic">
-            <Stanza>\def{HosannaResponse}</Stanza>
-        </Translation>
-        <Translation Title="" Language="Greek">
             <Stanza>\def{HosannaResponse}</Stanza>
         </Translation>
     </Translations>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Palm Sunday Matins Gospel Response</Name>
+    <Key>urn:suscopts:gospel-response:matins:palm-sunday</Key>
+    <Translations>
+        <Translation Title="Response to the Palm Sunday Matins Gospel" Language="English">
+            <Stanza>"The half of my goods," said Zacchaeus to his Lord, "I will give O Master, to the poor with care."</Stanza>
+            <Stanza>"Behold salvation has come unto you today," said the Lord God of Powers, "For you are also, a son of Abraham."</Stanza>
+            <Stanza>\def{BlessedBeTheFather}</Stanza>
+        </Translation>
+        <Translation Title="" Language="Coptic">
+            <Stanza>Ⲧ̀ⲫⲁϣⲓ ⲛ̀ⲛⲓϩⲩⲡⲁⲣⲭⲱⲛⲧⲁ: ⲡⲉϫⲉ Ⲍⲁⲕⲕⲉⲟⲥ ⲙ̀Ⲡⲉϥϭⲟⲓⲥ: ϯⲛⲁⲧⲏⲓϥ ⲱ̀ Ⲇⲉⲥⲡⲟⲧⲁ: ⲛ̀ⲛⲓϩⲏⲕⲓ ϧⲉⲛ ϣ̀ⲣⲱⲓⲥ.</Stanza>
+            <Stanza>Ⲓⲥ ⲡⲓⲟⲩϫⲁⲓ ⲁϥϣⲱⲡⲓ ⲛⲁⲕ: ⲡⲉ ϫⲉ Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ: ⲙ̀ⲫⲟⲟⲩ ⲅⲁⲣ ϫⲉ ⲛ̀ⲑⲟⲕ ϩⲱⲕ: ⲟⲩϣⲏⲣⲓ ⲛ̀ⲧⲉ Ⲁⲃⲣⲁⲁⲙ.</Stanza>
+            <Stanza>\def{BlessedBeTheFather}</Stanza>
+        </Translation>
+        <Translation Title="مرد إنجيل باكر" Language="Arabic">
+            <Stanza>فقال زكا لربه، "نصف أموالي، أعطيها يا سيدي، للمساكين بحرص."</Stanza>
+            <Stanza>أجاب الرب إله القوات، "هوذا الخلاص قد وجب لك اليوم، لأنك أنت أيضاً، إبن إبراهيم."</Stanza>
+            <Stanza>\def{BlessedBeTheFather}</Stanza>
+        </Translation>
+    </Translations>
+</Document>
