@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Matins Doxologies for Palm Sunday</Name>
+    <Uuid>urn:suscopts:doxologies:palm-sunday:matins</Uuid>
+    <Translations>
+        <Translation Title="Matins Doxologies" Language="English">
+            <Section Title="Introduction">
+                <Comment Type="Tune">Chanted</Comment>
+                <Stanza>In Christ Jesus our Lord. Amen alleluia.</Stanza>
+                <Stanza>Hail to you. We ask you, O saint, full of glory, the ever-virgin, the Theotokos, the Mother of Christ,</Stanza>
+                <Stanza>Lift up our prayers unto your beloved Son, \def{ForgiveSins}</Stanza>
+                <Stanza>Hail to the holy Virgin, who has brought forth unto us the true Light, Christ out God.</Stanza>
+                <Stanza>Ask the Lord on our behalf, that He may have mercy on our souls, and forgive us our sins.</Stanza>
+                <Stanza>O Virgin May, the holy Theotokos, the faithful advocate for all mankind,</Stanza>
+                <Stanza>Intercede on our behalf before Christ whom you bore, that He may grant us the forgiveness of our sins.</Stanza>
+                <Comment Type="Tune">Hosanna tune</Comment>
+                <Stanza Key="1HailVirgin">Hail to you, O Virgin / the right and true Queen / Hail to the pride of our race / who bore to us Immanuel.</Stanza>
+                <Stanza Key="2HailVirgin">We ask you to remember us, / O our faithful advocate, / before our Lord Jesus Christ / \def{ForgiveSins}</Stanza>
+            </Section>
+            <Section Title="First for Palm Sunday">
+                <Stanza>Blow the trumpet at the new moon / with the sound of the trumpet / on your festive day / for it is an order from God.</Stanza>
+                <Stanza>He who sits upon the Cherubim / riding on a colt / entered into Jerusalem / what is this great humility!</Stanza>
+                <Stanza>According to what David said / in the Psalms, / "Blessed is He who comes / in the name of the Lord of Hosts."</Stanza>
+                <Stanza>Again he said, / "Out of the mouths of babes / and nursing infants / You have perfected praise."</Stanza>
+                <Stanza>Then He completed the saying / of David the spirit-bearer / who likewise said / "out of the mouth of babes."</Stanza>
+                <Stanza>They praise Him watchfully / saying, "This is Emmanuel, / Hosanna in the highest, / this is the King of Israel."</Stanza>
+                <Stanza>Bring to the Lord, O sons of God: / bring to the Lord glory and honor: / rejoice in our God / with doxologies of blessing.</Stanza>
+                <Stanza>Praise is due to You, O God / in Zion and Jerusalem: / they send to You / prayers unto the ages.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+                <Stanza>\def{HosannaDoxologyEnd}</Stanza>
+            </Section>
+            <Section Title="For the Virgin During Matins">
+                <Stanza>Blessed are you O Mary / the wise and the chaste / the Second Tabernacle / the spiritual treasure.</Stanza>
+                <Stanza>The pure turtle-dove / who declared in our land / and brought to us / the Fruit of the Spirit.</Stanza>
+                <Stanza>The Spirit of Comfort / who came upon your son / in the waters of the Jordan. / According to the type of Noah-</Stanza>
+                <Stanza>That dove has / announced to us / the peace of God / for mankind.</Stanza>
+                <Stanza>Likewise you O our hope / the spiritual turtle-dove / have brought mercy unto us / carrying Him in your womb.</Stanza>
+                <Stanza>He is Jesus / the begotten of the Father / He was born of you for us / setting free our race.</Stanza>
+                <Stanza>Therefore let us declare / first with our hearts / then also with our tongues / proclaiming and saying,</Stanza>
+                <Stanza>"O our Lord Jesus Christ / make for Yourself within us / a temple of Your Holy Spirit / glorifying You."</Stanza>
+                <Stanza>\def{1HailVirgin}</Stanza>
+                <Stanza>\def{2HailVirgin}</Stanza>
+            </Section>
+            <Section Title="Conclusion">
+                <Stanza>Watch over us / from on high were you dwell / O Lady of us all / the ever-virgin Theotokos.</Stanza>
+                <Stanza>Ask of Him whom you have borne, / our good Savior, / to take away our troubles / and grant us His peace.</Stanza>
+                <Stanza>\def{1HailVirgin}</Stanza>
+                <Stanza>\def{2HailVirgin}</Stanza>
+            </Section>
+        </Translation>
+
+        <Translation Key="CopticTranslation" Title="Ϩⲁⲛⲇⲟⲝⲟⲗⲟⲅⲓⲁ" Language="Coptic">
+            <Section Title="Ⲧ̀ⲁⲣⲭⲏ">
+                <Comment Type="Tune">Ⲛ&#x0300;ⲭⲱⲗⲉⲙ</Comment>
+                <Stanza>Ϧⲉⲛ Ⲡⲓⲭ&#x0300;ⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ / ⲁ&#x0300;ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.</Stanza>
+                <Stanza>Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ ⲉ&#x0300;ⲣⲟ / ⲱ&#x0300; ⲑⲏⲉⲑⲟⲩⲁⲃ ⲉⲑⲙⲉϩ ⲛ&#x0300;ⲱ&#x0300;ⲟⲩ / ⲉ&#x0300;ⲧⲟⲓ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ / ϯⲙⲁⲥⲛⲟⲩϯ ⲑ&#x0300;ⲙⲁⲩ ⲙ&#x0300;Ⲡⲓⲭ&#x0300;ⲣⲓⲥⲧⲟⲥ.</Stanza>
+                <Stanza>Ⲁⲛⲓⲟⲩⲓ&#x0300; ⲛ&#x0300;ⲧⲉⲛⲡ&#x0300;ⲣⲟⲥⲉⲩⲭⲏ / ⲉ&#x0300;ⲡ&#x0300;ϣⲱⲓϩⲁ ⲡⲉϣⲏⲣⲓ ⲙ̀ⲙⲉⲛⲣⲓⲧ / \def{ForgiveSins}</Stanza>
+                <Stanza>Ⲭⲉⲣⲉ ⲑⲏⲉⲧⲁⲩⲙⲓⲥⲓ ⲛⲁⲛ / ⲙ̀ⲡⲓⲟⲩⲱⲓⲛⲓ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ / Ⲡⲓⲭ&#x0300;ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ / Ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲉⲑⲟⲩⲁⲃ.</Stanza>
+                <Stanza>Ⲙⲁϯϩⲟ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲉ&#x0300;ϩ&#x0300;ⲣⲏⲓ ⲉ̀ϫⲱⲛ / ⲛ&#x0300;ⲧⲉϥⲉⲣⲟⲩⲛⲁⲓ ⲛⲉⲙ ⲛⲉⲛⲯⲩⲭⲏ / \def{ForgiveSins}</Stanza>
+                <Comment Type="Tune">Ⲏ&#x0300;ⲭⲟⲥ Ⲱ&#x0300;ⲥⲁⲛⲛⲁ</Comment>
+                <Stanza>Ϯⲡⲁⲣⲑⲉⲛⲟⲥ Ⲙⲁⲣⲓⲁⲙ / ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ / ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ&#x0300;ⲧⲉⲛϩⲟⲧ / ⲛ̀ⲧⲉ ⲡ&#x0300;ϫⲉⲛⲟⲥ ⲛ̀ⲧⲉ ϯⲙⲉⲧⲣⲱⲙⲓ.</Stanza>
+                <Stanza>Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ&#x0300;ϩ&#x0300;ⲣⲏⲓ ⲉ̀ϫⲱⲛ / ⲛⲁϩⲣⲉⲛ Ⲡⲓⲭ&#x0300;ⲣⲓⲥⲧⲟⲥ ⲫⲏⲉⲧⲁⲣⲉϫ&#x0300;ⲫⲟϥ / ϩⲟⲡⲱⲥ ⲛ̀ⲧⲉϥⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ / ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.</Stanza>
+                <Stanza Key="1HailVirgin">Ⲭⲉⲣⲉ ⲛⲉ ⲱ&#x0300; ϯⲡⲁⲣⲑⲉⲛⲟⲥ / ϯⲟⲩⲣⲱ ⲙ̀ⲙⲏⲓ ⲛ&#x0300;ⲁ&#x0300;ⲗⲏⲑⲓⲛⲏ / ⲭⲉⲣⲉ ⲡ̀ϣⲟⲩϣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲅⲉⲛⲟⲥ / ⲁ&#x0300;ⲣⲉϫ&#x0300;ⲫⲟ ⲛⲁⲛ ⲛⲈⲙⲙⲁⲛⲟⲩⲏⲗ.</Stanza>
+                <Stanza Key="2HailVirgin">Ⲧⲉⲛϯϩⲟ ⲁ&#x0300;ⲣⲓⲡⲉⲛⲙⲉⲩⲓ&#x0300; / ⲱ&#x0300; ϯⲡ&#x0300;ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ&#x0300;ⲧⲉⲛϩⲟⲧ / ⲛⲁϩⲣⲉⲛ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ&#x0300;ⲣⲓⲥⲧⲟⲥ / \def{ForgiveSins}</Stanza>
+            </Section>
+            <Section Title="Ⲡⲓϣⲟⲣⲡ Ⲉⲑⲃⲉ Ⲱ̀ⲥⲁⲛⲛⲁ Ϯⲕⲩⲣⲓⲁⲕⲏ">
+                <Stanza>Ⲁ̀ⲣⲓⲥⲁⲗⲡⲓⲍⲓⲛ ϧⲉⲛ ⲟⲩⲥⲟⲩⲁⲓ: ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲥⲁⲗⲡⲓⲅⲅⲟⲥ: ϧⲉⲛ ⲟⲩⲉ̀ϩⲟⲟⲩ ⲛ̀ⲛⲉⲧⲉⲛϣⲁⲓ: ϫⲉ ⲟⲩⲁϩⲥⲁϩⲛⲓ ⲛ̀Ⲑⲉⲟⲥ.</Stanza>
+                <Stanza>Ⲫⲏⲉⲧϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲁϥⲧⲁⲗⲟϥ ⲉ̀ⲟⲩⲉ̀ⲱ̀: ⲁϥϣⲉ ⲉ̀ϧⲟⲩⲛ ⲉ̀Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ: ⲟⲩⲡⲉ ⲡⲁⲓⲛⲓϣϯ ⲛ̀ⲑⲉⲃⲓⲟ.</Stanza>
+                <Stanza>Ⲕⲁⲧⲁ ⲫ̀ⲣⲏϯ ⲉ̀ⲧⲁϥϫⲟⲥ: ⲛ̀ϫⲉ Ⲇⲁⲩⲓⲇ ϧⲉⲛ ⲡⲓⲯⲁⲗⲙⲟⲥ: ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ: ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ.</Stanza>
+                <Stanza>Ⲡⲁⲗⲓⲛ ⲟⲛ ⲁϥϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲣⲱⲟⲩ ⲛ̀ϩⲁⲛⲕⲟⲩϫⲓ: ⲛ̀ⲁ̀ⲗⲱⲟⲩⲓ̀ ⲛⲉⲙ ⲛⲏⲉⲑⲟⲩⲉⲙϭⲓ: ⲛ̀ⲑⲟⲕ ⲁⲕⲥⲉⲃⲧⲉ ⲡⲓⲥ̀ⲙⲟⲩ.</Stanza>
+                <Stanza>Ⲧⲟⲧⲉ ⲁϥϫⲱⲕ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡⲓⲥⲁϫⲓ: ⲛ̀ⲧⲉ Ⲇⲁⲩⲓⲇ ⲡⲓⲡ̀ⲛⲉⲩⲙⲁⲧⲟⲫⲟⲣⲟⲥ: ϫⲉ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲣⲱⲟⲩ ⲛ̀ϩⲁⲛⲕⲟⲩϫⲓ: ⲛ̀ⲁ̀ⲗⲱⲟⲩⲓ̀ ⲙ̀ⲡⲁⲓⲣⲏϯ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ.</Stanza>
+                <Stanza>Ⲥⲉϩⲱⲥ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲛⲉϩⲥⲓ: ⲁⲩϫⲉ ⲫⲁⲓ ⲡⲉ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ: ⲱ̀ⲥⲁⲛⲛⲁ ϧⲉⲛ ⲛⲏⲉⲧϭⲟⲥⲓ: ⲫⲁⲓ ⲡⲉ Ⲡ̀ⲟⲩⲣⲟ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ.</Stanza>
+                <Stanza>Ⲁ̀ⲛⲓⲟⲩⲓ̀ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϣⲏⲣⲓ ⲛ̀ⲧⲉ Ⲫ̀ⲛⲟⲩϯ: ⲁ̀ⲛⲓⲟⲩⲓ̀ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲟⲩⲱ̀ⲟⲩ ⲛⲉⲙ ⲟⲩⲧⲁⲓⲟ: ⲉ̀ϣ̀ⲗⲏⲗⲟⲩⲓ̀ ⲉ̀ⲃⲟⲗ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ: ϧⲉⲛ ϩⲁⲛⲇⲟⲝⲟⲗⲟⲅⲓⲁ ⲛ̀ⲥ̀ⲙⲟⲩ.</Stanza>
+                <Stanza>Ⲛ̀ⲑⲟⲕ Ⲫ̀ⲛⲟⲩϯ ϥ̀ⲉⲣϣⲁⲩ ⲛⲁⲕ: ⲛ̀ϫⲉ ⲡⲓϫⲱ ϧⲉⲛ Ⲥⲓⲱⲛ: ⲛⲉⲙ Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ ⲉⲩⲉ̀ϯ ⲛⲁⲕ: ⲛ̀ϩⲁⲛⲉⲩⲭⲏ ϣⲁ ⲛⲓⲉ̀ⲱⲛ.</Stanza>
+                <Stanza>\def{HosannaResponse}</Stanza>
+                <Stanza>\def{HosannaDoxologyEnd}</Stanza>
+            </Section>
+            <Section Title="Ⲉⲑⲃⲉ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲛ̀Ϩⲁⲛⲁⲧⲟⲟⲩⲓ">
+                <Stanza>Ⲱⲟⲩⲛⲓⲁϯ ⲛ̀ⲑⲟ Ⲙⲁⲣⲓⲁ / ϯⲥⲁⲃⲏ ⲟⲩⲟϩ ⲛ&#x0300;ⲥⲉⲙⲛⲏ / ϯⲙⲁϩⲥ&#x0300;ⲛⲟⲩϯ ⲛ&#x0300;ⲥ&#x0300;ⲕⲏⲛⲏ / ⲡⲓⲁ&#x0300;ϩⲟ ⲙ&#x0300;ⲡⲓⲡ&#x0300;ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ.</Stanza>
+                <Stanza>Ϯϭⲣⲟⲙⲡ&#x0300;ϣⲁⲗ ⲛ&#x0300;ⲕⲁⲑⲁⲣⲟⲥ / ⲑⲏⲉ&#x0300;ⲧⲁⲥⲙⲟⲩϯ ϧⲉⲛ ⲡⲉⲛⲕⲁϩⲓ / ⲟⲩⲟϩ ⲁⲥⲫⲓⲣⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ / ⲛ&#x0300;ⲟⲩⲕⲁⲣⲡⲟⲥ ⲛ̀ⲧⲉ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ.</Stanza>
+                <Stanza>Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲙ&#x0300;ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ / ⲫⲏⲉ̀ⲧⲁϥ&#x0300;ⲓ ⲉ̀ϫⲉⲛ Ⲡⲉϣⲏⲣⲓ / ϩⲓϫⲉⲛ ⲛⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ Ⲡⲓⲓⲟⲣⲇⲁⲛⲏⲥ / ⲕⲁⲧⲁ ⲡ&#x0300;ⲧⲩⲡⲟⲥ ⲛ&#x0300;Ⲛⲱⲉ&#x0300;.</Stanza>
+                <Stanza>Ϯϭⲣⲟⲙⲡⲓ ⲅⲁⲣ ⲉ̀ⲧⲉ ⲙ&#x0300;ⲙⲁⲩ / ⲛ&#x0300;ⲑⲟⲥ ⲁⲥϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛⲁⲛ / ⲛ&#x0300;ϯϩⲓⲣⲏⲛⲏ ⲛ̀ⲧⲉ Ⲫ̀ⲛⲟⲩϯ / ⲑⲏⲉ̀ⲧⲁⲥϣⲱⲡⲓ ϣⲁ ⲛⲓⲣⲱⲙⲓ.</Stanza>
+                <Stanza>Ⲛ̀ⲑⲟ ϩⲱⲓ ⲧⲉⲛϩⲉⲗⲡⲓⲥ / ϯϭⲣⲟⲙⲡ&#x0300;ϣⲁⲗ ⲛ&#x0300;ⲛⲟⲏ&#x0300;ⲧⲉ / ⲁ̀ⲣⲉⲓⲛⲓ ⲙ&#x0300;ⲡⲓⲛⲁⲓ ⲛⲁⲛ / ⲁ̀ⲣⲉϥⲁⲓ ϧⲁⲣⲟϥ ϧⲉⲛ ⲧⲉⲛⲉϫⲓ.</Stanza>
+                <Stanza>Ⲉⲧⲉ ⲫⲁⲓ ⲡⲉ Ⲓⲏⲥⲟⲩⲥ / ⲡⲓⲙⲓⲥⲓ ⲉ̀ⲃⲟⲗ ϧⲉⲛ Ⲫ̀ⲓⲱⲧ / ⲁⲩⲙⲁⲥϥ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏϯ / ⲁϥⲉⲣ ⲡⲉⲛⲅⲉⲛⲟⲥ ⲛ̀ⲣⲉⲙϩⲉ.</Stanza>
+                <Stanza>Ⲫⲁⲓ ⲅⲁⲣ ⲙⲁⲣⲉⲛⲧⲁⲟⲩⲟϥ / ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲡⲉⲛϩⲏⲧ ⲛ̀ϣⲟⲣⲡ / ⲙⲉⲛⲉⲛⲥⲱⲥ ⲟⲛ ϧⲉⲛ ⲡⲉⲛⲕⲉⲗⲁⲥ / ⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ.</Stanza>
+                <Stanza>Ϫⲉ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ&#x0300;ⲣⲓⲥⲧⲟⲥ / ⲙⲁⲑⲁⲙⲓⲟ&#x0300; ⲛⲁⲕ ⲛ&#x0300;ϧ&#x0300;ⲣⲏⲓ ⲛ&#x0300;ϧⲏⲧⲉⲛ / ⲛ&#x0300;ⲟⲩⲉⲣⲫⲉⲓ ⲛ̀ⲧⲉ Ⲡⲉⲕⲡ&#x0300;ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ / ⲉⲩϯⲇⲟⲝⲟⲗⲟⲅⲓⲁ&#x0300; ⲛⲁⲕ.</Stanza>
+                <Stanza>\def{1HailVirgin}</Stanza>
+                <Stanza>\def{2HailVirgin}</Stanza>
+            </Section>
+            <Section Title="Ⲧ̀ϧⲁⲉ̀">
+                <Stanza>Ϣⲱⲡⲓ ⲛ̀ⲑⲟ ⲉ&#x0300;ⲣⲉⲥⲟⲙⲥ ⲉ̀ϫⲱⲛ / ϧⲉⲛ ⲛⲓⲙⲁ ⲉⲧϭⲟⲥⲓ ⲉ̀ⲧⲁⲣⲉⲭⲏ ⲛ̀ϧⲏⲧⲟⲩ / ⲱ&#x0300; ⲧⲉⲛϭⲓⲟⲥ ⲛ&#x0300;ⲛⲏⲃ ⲧⲏⲣⲉⲛ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ / ⲉⲧⲟⲓ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ.</Stanza>
+                <Stanza>Ⲙⲁϯϩⲟ ⲙ̀ⲫⲏⲉ̀ⲧⲁⲣⲉⲙⲁⲥϥ / Ⲡⲉⲛⲥⲱⲧⲏⲣ ⲛ&#x0300;ⲁ&#x0300;ⲅⲁⲑⲟⲥ / ⲛ̀ⲧⲉϥⲱ&#x0300;ⲗⲓ ⲛ̀ⲛⲁⲓϧⲓⲥⲓ ⲉ̀ⲃⲟⲗϩⲁⲣⲟⲛ / ⲛ̀ⲧⲉϥⲥⲉⲙⲛⲓ ⲛⲁⲛ ⲛ̀ⲧⲉϥϩⲓⲣⲏⲛⲏ.</Stanza>
+                <Stanza>\def{1HailVirgin}</Stanza>
+                <Stanza>\def{2HailVirgin}</Stanza>
+            </Section>
+        </Translation>
+    </Translations>
+
+    <Definitions>
+        <Translations Key="HosannaDoxologyEnd">
+            <Stanza Language="English">We praise and glorify Him / and exalt Him above all / as a Good One and Lover of Man / have mercy upon us according to Your great mercy.</Stanza>
+            <Stanza Language="Coptic">Ⲧⲉⲛϩⲱⲥ ⲉ̀ⲣⲟϥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ: ⲧⲉⲛⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ⲙ̀ⲙⲟϥ: ϩⲱⲥ Ⲁ̀ⲅⲁⲑⲟⲥ ⲟⲩⲟϩ ⲙ̀Ⲙⲁⲓⲣⲱⲙⲓ: ⲛⲁⲓ ⲛⲁⲛ ⲕⲁⲧⲁ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲛⲁⲓ.</Stanza>
+            <Stanza Language="Arabic">نسبحه ونمجده، ونزيده علواً، كصالح ومحب البشر، إرحمنا كعظيم رحمتك.</Stanza>
+        </Translations>
+        <Translations Key="ForgiveSins">
+            <Stanza Language="English">that He may forgive us our sins.</Stanza>
+            <Stanza Language="Coptic">ⲛ&#x0300;ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ&#x0300;ⲃⲟⲗ.</Stanza>
+        </Translations>
+    </Definitions>
+</Document>
