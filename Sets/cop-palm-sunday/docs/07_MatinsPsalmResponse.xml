@@ -4,10 +4,10 @@
     <Key>urn:suscopts:psalm-response:matins:palm-sunday</Key>
     <Translations>
         <Translation Title="Response to the Palm Sunday Matins Psalm" Language="English">
-            <Stanza>\def{PsalmResponseEx}</Stanza>
+            <Stanza>\abv{Al}, \abv{Al}. \def{PsalmResponseEx} \abv{Al}, \abv{Al}.</Stanza>
         </Translation>
         <Translation Title="" Language="Coptic">
-            <Stanza>\def{PsalmResponseEx}</Stanza>
+            <Stanza>\abv{Al}, \abv{Al}. \def{PsalmResponseEx} \abv{Al}, \abv{Al}.</Stanza>
         </Translation>
     </Translations>
 </Document>
