@@ -4,6 +4,7 @@
     <Key>urn:suscopts:verses-of-the-cymbals:palm-sunday</Key>
     <Translations>
         <Translation Title="Verses of the Cymbals" Language="English">
+            <Comment Type="Tune">Festive tune</Comment>
             <Stanza>O come let us worship, the Holy Trinity, the Father and the Son, and the Holy Spirit.</Stanza>
             <Stanza>We the Christian people, for He is, our true God.</Stanza>
             <Stanza>We have hope in Saint Mary, that God will have mercy on us, through her intercession.</Stanza>
@@ -12,6 +13,7 @@
                 <Stanza>\def{HosannaResponse}</Stanza>
                 <Stanza>He who sits upon the Cherubim, sat on a donkey, He came into Jerusalem, what is this great humility?</Stanza>
             </Section>
+            <Comment Type="Tune">Annual tune</Comment>
             <Stanza>Hail to the Virgin, who gave birth to our Savior, hail to Gabriel, who announced to her the Good News.</Stanza>
             <Stanza>Hail to Michael, the archangel, hail to the twenty-four, presbyters.</Stanza>
             <Stanza>Hail to the Cherubim, hail to the Seraphim, hail to all the hosts, of the heavens.</Stanza>
@@ -31,6 +33,7 @@
             </Section>
         </Translation>
         <Translation Title="Ⲛⲓⲥ̀ⲧⲟⲓⲭⲟⲛ ⲛ̀ⲧⲉ ⲡⲓϣ̀ⲕⲉⲗⲕⲓⲗ" Language="Coptic">
+            <Comment Type="Tune">Ⲏ&#x0300;ⲭⲟⲥ Ϣⲁⲓ</Comment>
             <Stanza>Ⲁ̀ⲙⲱⲓⲛⲓ ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ: ⲛ̀Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲑⲟⲩⲁⲃ: ⲉ̀ⲧⲉ Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ.</Stanza>
             <Stanza>Ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲓⲗⲁⲟⲥ: ⲛ̀ⲭ̀ⲣⲓⲥⲧⲓⲁⲛⲟⲥ: ⲫⲁⲓ ⲅⲁⲣ ⲡⲉ Ⲡⲉⲛⲛⲟⲩϯ: ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲟⲥ.</Stanza>
             <Stanza>Ⲟⲩⲟⲛ ⲟⲩϩⲉⲗⲡⲓⲥ ⲛ̀ⲧⲁⲛ: ϧⲉⲛ ⲑⲏⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: ⲉ̀ⲣⲉ Ⲫ̀ϯ ⲛⲁⲓ ⲛⲁⲛ: ϩⲓⲧⲉⲛ ⲛⲉⲥⲡ̀ⲣⲉⲥⲃⲓⲁ.</Stanza>
@@ -39,6 +42,7 @@
                 <Stanza>\def{HosannaResponse}</Stanza>
                 <Stanza>Ⲫⲏⲉⲧϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲁϥⲧⲁⲗⲟϥ ⲉ̀ⲟⲩⲉ̀ⲱ̀: ⲁϥϣⲉ ⲉ̀ϧⲟⲩⲛ ⲉ̀Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ: ⲟⲩ ⲡⲉ ⲡⲁⲓⲛⲓϣϯ ⲛ̀ⲑⲉⲃⲓⲟ.</Stanza>
             </Section>
+            <Comment Type="Tune">Ⲏ&#x0300;ⲭⲟⲥ Ⲧⲉⲣⲟⲙⲡⲓ</Comment>
             <Stanza>Ⲭⲉⲣⲉ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲉ̀ⲧⲁⲥⲙⲉⲥ Ⲡⲉⲛⲥⲱⲧⲏⲣ: ⲭⲉⲣⲉ Ⲅⲁⲃⲣⲓⲏⲗ: ⲉ̀ⲧⲁϥϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛⲁⲥ.</Stanza>
             <Stanza>Ⲭⲉⲣⲉ Ⲙⲓⲭⲁⲏⲗ: ⲡⲓⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲭⲉⲣⲉ ⲡⲓϫⲟⲩⲧ ϥ̀ⲧⲟⲟⲩ: ⲙ̀ⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ.</Stanza>
             <Stanza>Ⲭⲉⲣⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲭⲉⲣⲉ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ: ⲭⲉⲣⲉ ⲛⲓⲧⲁⲅⲙⲁ ⲧⲏⲣⲟⲩ: ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ.</Stanza>
