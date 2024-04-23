@@ -11,8 +11,10 @@
             <Stanza>Save us and have mercy on us.</Stanza>
             <Stanza>Lord have mercy. Lord have mercy. Lord bless us. Amen. Bless me. Bless me. Lo, the repentance. Forgive me. Say the blessing.</Stanza>
 
-            <Stanza Role="Priest">O Christ our God--</Stanza>
-            <Stanza Role="People">Amen. So be it.</Stanza>
+            <Comment Type="Role">Preist</Comment>
+            <Stanza >O Christ our God--</Stanza>
+            <Comment Type="Role">People</Comment>
+            <Stanza >Amen. So be it.</Stanza>
         </Translation>
 
         <Translation Title="Ⲡⲓϩⲩⲙⲛⲟⲥ ⲛ̀Ⲧ̀ϧⲁⲉ" Language="Coptic">
@@ -23,8 +25,10 @@
             <Stanza>ⲥⲱϯ ⲙ&#x0300;ⲙⲟⲛ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ:</Stanza>
             <Stanza>Ⲕⲩⲣⲓⲉ ⲉ&#x0300;ⲗⲉⲏⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ&#x0300;ⲗⲉⲏⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉⲩⲗⲟⲅⲏⲥⲟⲛ: ⲁ&#x0300;ⲙⲏⲛ. Ⲥ&#x0300;ⲙⲟⲩ ⲉ&#x0300;ⲣⲟⲓ: ⲥ&#x0300;ⲙⲟⲩ ⲉ&#x0300;ⲣⲟⲓ ⲓⲥ ϯⲙⲉⲧⲁⲛⲟⲓⲁ: ⲭⲱ ⲛⲏⲓ ⲉ&#x0300;ⲃⲟⲗ: ϫⲱ ⲙ&#x0300;ⲡⲓⲥ&#x0300;ⲙⲟⲩ.</Stanza>
 
-            <Stanza Role="Priest">Ⲡⲓⲭ&#x0300;ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ.</Stanza>
-            <Stanza Role="People">Ⲁⲙⲏⲛ ⲉⲥⲉ&#x0300;ϣⲱⲡⲓ.</Stanza>
+            <Comment Type="Role">Preist</Comment>
+            <Stanza>Ⲡⲓⲭ&#x0300;ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ.</Stanza>
+            <Comment Type="Role">People</Comment>
+            <Stanza>Ⲁⲙⲏⲛ ⲉⲥⲉ&#x0300;ϣⲱⲡⲓ.</Stanza>
         </Translation>
 
         <!-- <Translation Title="الختام" Language="Arabic">
