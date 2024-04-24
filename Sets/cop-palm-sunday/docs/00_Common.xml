@@ -4,6 +4,20 @@
     <Key>urn:coptchnt:common-palm-sunday</Key>
 
     <Definitions>
+        <Translations Key="PopeName">
+            <Stanza Language="English">Tawadros</Stanza>
+            <Stanza Language="Coptic">Ⲑⲉⲟ́ⲇⲱⲣⲟⲥ</Stanza>
+            <Stanza Language="Greek">Θεόδωρος</Stanza>
+            <Stanza Language="Arabic">تواضروس</Stanza>
+        </Translations>
+        <Translations Key="BishopName">
+            <!-- Yes, it should be H.E. Metropolitan. -->
+            <Stanza Language="English">Serapion</Stanza>
+            <Stanza Language="Coptic">Ⲥⲉⲣⲁⲡⲓⲟⲛ</Stanza>
+            <Stanza Language="Greek">Σεραπιον</Stanza>
+            <Stanza Language="Arabic">سرابيون</Stanza>
+        </Translations>
+
         <Translations Key="HosannaResponse">
             <Run Language="English">Hosanna in the highest: this is the King of Israel; Blessed is He who comes in the name: of the Lord of Hosts.</Run>
             <Run Language="Coptic">Ⲱ̀ⲥⲁⲛⲛⲁ ϧⲉⲛ ⲛⲏⲉⲧϭⲟⲥⲓ: ⲫⲁⲓ ⲡⲉ Ⲡ̀ⲟⲩⲣⲟ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ: ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ: ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ.</Run>
