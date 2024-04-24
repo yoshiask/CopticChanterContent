@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Procession of the Lamb</Name>
+    <Key>urn:suscopts:offeratory:procession-of-the-lamb</Key>
+    <Translations>
+        <Translation Title="Alleluia This is the Day" Language="English">
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Glory and honor, honor and glory to the All-Holy Trinity, the Father and the Son and the Holy Spirit.</Stanza>
+            <Stanza>Peace and edification to the one, only, holy, catholic, and apostolic Church of God. Amen.</Stanza>
+            <Stanza>Remember, O Lord, those who have brought to You these gifts, those on whose behalf they have been brought, and those by whom they have been brought. Give them all the heavenly reward.</Stanza>
+            
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>Pray for these holy precious gifts, our sacrifices, and those who bring them. Lord have mercy.</Stanza>
+            
+            <Comment Type="Role">People</Comment>
+            <Comment Type="Explanation">Psalm 117:24-26</Comment>
+            <Stanza>Alleluia. This is the day with the Lord has made, let us rejoice and be glad in it. O Lord save us, O Lord straighten our ways. Blessed is He who comes in the name of the Lord. Alleluia.</Stanza>
+            
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>In the name of the Father and the Son and the Holy Spirit, one God.</Stanza>
+            <Stanza>Blessed be God the Father, the Pantocrator.</Stanza>
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>Amen.</Stanza>
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Blessed be His only-begotten Son, Jesus Christ our Lord.</Stanza>
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>Amen.</Stanza>
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Blessed be the Holy Spirit, the Paraclete.</Stanza>
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>Amen. One is the Holy Father. One is the Holy Son. One is the Holy Spirit. Amen.</Stanza>
+            <Stanza>Blessed be the Lord God forever. Amen.</Stanza>
+            <Stanza>Praise the Lord, all you Gentiles! Laud Him, all you peoples! For His mercy has been strengthened toward us; and the truth of the Lord abides forever. Amen. Alleluia.</Stanza>
+            
+            <Comment Type="Role">People</Comment>
+            <Stanza>Glory to the Father and the Son and the Holy Spirit, now and ever and unto the ages of the ages. Amen. Alleluia.</Stanza>
+            
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Let us pray.</Stanza>
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>Stand up for prayer.</Stanza>
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Peace be with all.</Stanza>
+            <Comment Type="Role">People</Comment>
+            <Stanza>And with your spirit.</Stanza>
+        </Translation>
+        
+        <Translation Title="\abv{Al} Ⲫⲁⲓ ⲡⲉ Ⲡⲓⲉ̀ϩⲟⲟⲩ" Language="Coptic">
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Ⲟⲩⲱⲟⲩ ⲛⲉⲙ ⲟⲩⲧⲁⲓⲟ: ⲟⲩⲧⲁⲓⲟ ⲛⲉⲙ ⲟⲩⲱⲟⲩ: ⲛ̀Ϯⲡⲁⲛⲁ̀ⲅⲓⲁ̀ Ⲧⲣⲓⲁⲥ Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ.</Stanza>
+            <Stanza>Ⲟⲩϩⲓⲣⲏⲛⲏ ⲛⲉⲙ ⲟⲩⲕⲱⲧ ⲉ̀ϫⲉⲛ ϯⲟⲩⲓ̀ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀ⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ Ⲫ̀ⲛⲟⲩϯ: ⲁ̀ⲙⲏⲛ.</Stanza>
+            <Stanza>Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ \abv{Poc} ⲛ̀ⲛⲏⲉⲧⲁⲩⲓ̀ⲛⲓ ⲛⲁⲕ ⲉ̀ϧⲟⲩⲛ ⲛ̀ⲛⲁⲓⲇⲱⲣⲟⲛ: ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲁⲩⲉ̀ⲛⲟⲩ ⲉ̀ϫⲱⲟⲩ: ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲁⲩⲉ̀ⲛⲟⲩ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲧⲟⲩ: ⲙⲟⲓ ⲛⲱⲟⲩ ⲧⲏⲣⲟⲩ ⲙ̀ⲡⲓⲃⲉⲭⲉ ⲡⲓⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ.</Stanza>
+            
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ ⲧⲓⲙⲓⲱⲛ ⲇⲱⲣⲟⲛ ⲧⲟⲩⲧⲱⲛ ⲕⲉ ⲑⲩⲥⲓⲱⲛ ⲏ̀ⲙⲱⲛ ⲕⲉ ⲡⲣⲟⲥⲫⲉⲣⲟⲛⲧⲱⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.</Stanza>
+
+            <Comment Type="Role">People</Comment>
+            <Comment Type="Explanation">Ⲯⲁⲗⲙⲟⲥ ⲣ̅ⲓ̅ⲍ̅:ⲕ̅ⲇ̅-ⲕ̅ⲋ̅</Comment>
+            <Stanza>\abv{Al}. Ⲫⲁⲓ ⲡⲉ ⲡⲓⲉ̀ϩⲟⲟⲩ ⲉ̀ⲧⲁ \abv{Poc} ⲑⲁⲙⲓⲟϥ: ⲙⲁⲣⲉⲛⲑⲉⲗⲏⲗ ⲛ̀ⲧⲉⲛⲟ̀ⲩⲛⲟϥ ⲙ̀ⲙⲟⲛ ⲛ̀ϧⲏⲧϥ: ⲱ̀ \abv{Poc} ⲉⲕⲉ̀ⲛⲁϩⲙⲉⲛ: ⲱ̀ \abv{Poc} ⲉⲕⲉ̀ⲥⲟⲩⲧⲉⲛ ⲛⲉⲛⲙⲱⲓⲧ: ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉ̀ⲑⲛⲏⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀\abv{Poc}: \abv{al}.</Stanza>
+        
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓ\abv{pna} \abv{Ethu} ⲟⲩⲛⲟⲩϯ ⲛ̀ⲟⲩⲱⲧ.</Stanza>
+            <Stanza>Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ \abv{Fti} Ⲫ̀ⲓⲱⲧ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ.</Stanza>
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>Ⲁⲙⲏⲛ.</Stanza>
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲡⲉϥⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ \abv{Ic} \abv{Pxc} Ⲡⲉⲛ\abv{oc}.</Stanza>
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>Ⲁⲙⲏⲛ.</Stanza>
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲡⲓ\abv{pna} \abv{Ethu} ⲙ̀ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ.</Stanza>
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>Ⲁⲙⲏⲛ. Ⲓⲥ Ⲡⲁⲧⲏⲣ ⲁ̀ⲅⲓⲟⲥ: ⲓⲥ Ⲩ̀ⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ: ⲉⲛ Ⲡ̀ⲛⲉⲩⲙⲁ Ⲁ̀ⲅⲓⲟⲛ. Ⲁ̀ⲙⲏⲛ.</Stanza>
+            <Stanza>Ⲉⲩⲗⲟⲅⲓⲧⲟⲥ Ⲕⲩⲣⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ. Ⲁ̀ⲙⲏⲛ.</Stanza>
+            <Stanza>Ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ ⲥ̀ⲙⲟⲩ ⲉ̀\abv{Poc}: ⲙⲁⲣⲟⲩⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲛ̀ϫⲉ ⲛⲓⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ: ϫⲉ ⲁ̀ ⲡⲉϥⲛⲁⲓ ⲧⲁϫⲣⲟ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲟⲩⲟϩ ϯⲙⲉⲑⲙⲏⲓ ⲛ̀ⲧⲉ \abv{Poc} ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ. Ⲁ̀ⲙⲏⲛ \abv{al}.</Stanza>
+            
+            <Comment Type="Role">People</Comment>
+            <Stanza>Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩⲓⲱ ⲕⲉ ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ: ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ \abv{al}.</Stanza>
+            
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Ϣ̀ⲗⲏⲗ.</Stanza>
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>Ⲉⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ.</Stanza>
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Ⲓⲣⲏⲛⲏ ⲡⲁⲥⲓ.</Stanza>
+            <Comment Type="Role">People</Comment>
+            <Stanza>Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ.</Stanza>
+        </Translation>
+    </Translations>
+</Document>
