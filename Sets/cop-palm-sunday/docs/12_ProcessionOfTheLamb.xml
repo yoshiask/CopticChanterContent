@@ -3,7 +3,7 @@
     <Name>Procession of the Lamb</Name>
     <Key>urn:suscopts:offeratory:procession-of-the-lamb</Key>
     <Translations>
-        <Translation Title="Alleluia This is the Day" Language="English">
+        <Translation Title="Procession of the Lamb" Language="English">
             <Comment Type="Role">Priest</Comment>
             <Stanza>Glory and honor, honor and glory to the All-Holy Trinity, the Father and the Son and the Holy Spirit.</Stanza>
             <Stanza>Peace and edification to the one, only, holy, catholic, and apostolic Church of God. Amen.</Stanza>
@@ -45,7 +45,7 @@
             <Stanza>And with your spirit.</Stanza>
         </Translation>
         
-        <Translation Title="\abv{Al} Ⲫⲁⲓ ⲡⲉ Ⲡⲓⲉ̀ϩⲟⲟⲩ" Language="Coptic">
+        <Translation Title="Ⲡⲓϫⲓⲛⲕⲱϯ ⲛ̀ⲧⲉ Ϯϩⲓⲉⲃⲓ" Language="Coptic">
             <Comment Type="Role">Priest</Comment>
             <Stanza>Ⲟⲩⲱⲟⲩ ⲛⲉⲙ ⲟⲩⲧⲁⲓⲟ: ⲟⲩⲧⲁⲓⲟ ⲛⲉⲙ ⲟⲩⲱⲟⲩ: ⲛ̀Ϯⲡⲁⲛⲁ̀ⲅⲓⲁ̀ Ⲧⲣⲓⲁⲥ Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ.</Stanza>
             <Stanza>Ⲟⲩϩⲓⲣⲏⲛⲏ ⲛⲉⲙ ⲟⲩⲕⲱⲧ ⲉ̀ϫⲉⲛ ϯⲟⲩⲓ̀ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀ⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ Ⲫ̀ⲛⲟⲩϯ: ⲁ̀ⲙⲏⲛ.</Stanza>
