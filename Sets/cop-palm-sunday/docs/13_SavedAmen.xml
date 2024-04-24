@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Saved Amen</Name>
+    <Key>urn:suscopts:offeratory:saved-amen</Key>
+    <Translations>
+        <Translation Title="Saved Amen" Language="English">
+            <Stanza>Saved. Amen. And with your spirit.</Stanza>
+        </Translation>
+        <Translation Title="Ⲥⲱⲑⲓⲥ Ⲁ̀ⲙⲏⲛ" Language="Coptic">
+            <Stanza>Ⲥⲱⲑⲓⲥ ⲁ̀ⲙⲏⲛ: ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ.</Stanza>
+        </Translation>
+        <Translation Title="Σωθις ἀμήν" Language="Greek">
+            <Stanza>Σωθις ἀμήν: κε τῷ πνευματι σοῦ.</Stanza>
+        </Translation>
+    </Translations>
+</Document>

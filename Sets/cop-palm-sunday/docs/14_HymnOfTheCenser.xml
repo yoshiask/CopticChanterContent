@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Palm Sunday Exposition Response</Name>
+    <Key>urn:suscopts:hymn-of-the-censer</Key>
+    <Translations>
+        <Translation Title="Hymn of the Censer" Language="English">
+            <Stanza>This censer of pure gold, bearing the aroma, is in the hand of Aaron the priest, offering up incense upon the altar.</Stanza>
+        </Translation>
+        <Translation Title="Ⲡⲓϩⲩⲙⲛⲟⲥ ⲛ̀ⲧⲉ Ϯϣⲟⲩⲣⲏ" Language="Coptic">
+            <Stanza>Ⲧⲁⲓϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ ⲉⲧϥⲁⲓ ϧⲁ ⲡⲓⲁ̀ⲣⲱⲙⲁⲧⲁ: ⲉⲧϧⲉⲛ ⲛⲉⲛϫⲓϫ ⲛ̀Ⲁ̀ⲁⲣⲱⲛ ⲡⲓⲟ̀ⲩⲏⲃ ⲉϥⲧⲁⲗⲉ ⲟⲩⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ϫⲉⲛ ⲡⲓⲙⲁ ⲛ̀ⲉ̀ⲣϣⲱⲟ̀ⲩϣⲓ.</Stanza>
+        </Translation>
+        <Translation Title="تاي شوري" Language="Arabic">
+            <Stanza>هذه المجمرة الذهب النقي الحاملة العنبر التي في يدي هرون الكاهن يرفع بخوراً فوق المذبح.</Stanza>
+        </Translation>
+    </Translations>
+</Document>
