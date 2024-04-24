@@ -17,7 +17,7 @@
             <Stanza>Through the prayers, of the victorious martyr, Abba Mena of Bayad, \def{Refrain}</Stanza>
             <Stanza>Through the prayers, of the victorious martyr, Abba Eskhyron of Callin, \def{Refrain}</Stanza>
             <Stanza>Through the prayers, of the saints of this day, each one according to their names, \def{Refrain}</Stanza>
-            <Stanza>Through their prayers, keep the life of our honored father, the archpriest, Pope Abba \def{PopeNameLA}, \def{Refrain}</Stanza>
+            <Stanza>Through their prayers, keep the life of our honored father, the archpriest, Pope Abba \def{PopeNameUSA}, \def{Refrain}</Stanza>
             <Stanza>We worship You O Christ, with Your good Father, and the Holy Spirit, for you have come and saved us. Have mercy on us.</Stanza>
         </Translation>
         <Translation Title="Ⲡⲓϩⲩⲙⲛⲟⲥ ⲛ̀ⲧⲉ Ⲛⲓⲡ&#x0300;ⲣⲉⲥⲃⲓⲁ&#x0300;" Key="CopticTranslation" Language="Coptic" Font="CopticStandard">
@@ -34,7 +34,7 @@
             <Stanza>Hiten ni`eu,y@ `nte pi`a;lovoroc \abv{mr}@ abba Myna `nte niVaiat@ \def{Refrain}</Stanza>
             <Stanza>Hiten ni`eu,y@ `nte pi`a;lovoroc \abv{mr}@ `apa Ic,uron `nremKallin@ \def{Refrain}</Stanza>
             <Stanza>Hiten ni`eu,y@ `nte ny\abv{ethu} `nte pai`ehoou@ piouai piouai kata pefran@ \def{Refrain}</Stanza>
-            <Stanza>Hiten nou`eu,y@ `areh `e`pwnq `mpeniwt ettaiyout `n`ar,y`ereuc@ papa abba \def{PopeNameLA}@ \def{Refrain}</Stanza>
+            <Stanza>Hiten nou`eu,y@ `areh `e`pwnq `mpeniwt ettaiyout `n`ar,y`ereuc@ papa abba \def{PopeNameUSA}@ \def{Refrain}</Stanza>
             <Stanza>Tenouwst `mmok `w \abv{Pxc}@ nem Pekiwt `n`aga;oc@ nem Pi\abv{pna} \abv{ethu}@ je ak`i akcw] `mmon nai nan.</Stanza>
         </Translation>
         <Translation Title="الهيتينيات" Language="Arabic">
@@ -51,7 +51,7 @@
             <Stanza>بصلوات المجاهد الشهيد ابا مينا البياضي, \def{Refrain}</Stanza>
             <Stanza>بصلواتِ المجاهدِ الشهيدِ ابا اسخيرون القليني, \def{Refrain}</Stanza>
             <Stanza>بصلوات قديسي هذا اليوم  كل واحد باسمه, \def{Refrain}</Stanza>
-            <Stanza>بصلوات إحفظ حياة أبينا المكرم رئيس الكهنة  البابا الانبا \def{PopeNameLA}, \def{Refrain}</Stanza>
+            <Stanza>بصلوات إحفظ حياة أبينا المكرم رئيس الكهنة  البابا الانبا \def{PopeNameUSA}, \def{Refrain}</Stanza>
             <Stanza>نسجد لك ايها المسيح، مع أبيك الصالح والروح القدس، لأنك (قمت/اتيت) وخلصتنا. إرحمنا. </Stanza>
         </Translation>
     </Translations>

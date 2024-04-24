@@ -4,13 +4,13 @@
     <Key>urn:coptchnt:common-palm-sunday</Key>
 
     <Definitions>
-        <Translations Key="PopeName">
+        <Translations Key="PopeNameUSA">
             <Stanza Language="English">Tawadros</Stanza>
             <Stanza Language="Coptic">Ⲑⲉⲟ́ⲇⲱⲣⲟⲥ</Stanza>
             <Stanza Language="Greek">Θεόδωρος</Stanza>
             <Stanza Language="Arabic">تواضروس</Stanza>
         </Translations>
-        <Translations Key="BishopName">
+        <Translations Key="BishopNameLA">
             <!-- Yes, it should be H.E. Metropolitan. -->
             <Stanza Language="English">Serapion</Stanza>
             <Stanza Language="Coptic">Ⲥⲉⲣⲁⲡⲓⲟⲛ</Stanza>
