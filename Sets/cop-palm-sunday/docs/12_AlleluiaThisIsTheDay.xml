@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Alleluia This is the Day</Name>
+    <Key>urn:suscopts:offeratory:this-is-the-day</Key>
+    <Translations>
+        <Translation Title="Alleluia This is the Day" Language="English">
+            <Comment Type="Explanation">Psalm 117:24-26</Comment>
+            <Stanza>Alleluia. This is the day with the Lord has made, let us rejoice and be glad in it. O Lord save us, O Lord straighten our ways. Blessed is He who comes in the name of the Lord. Alleluia.</Stanza>
+        </Translation>
+        <Translation Title="\abv{Al} Ⲫⲁⲓ ⲡⲉ Ⲡⲓⲉ̀ϩⲟⲟⲩ" Language="Coptic">
+            <Comment Type="Explanation">Ⲯⲁⲗⲙⲟⲥ ⲣ̅ⲓ̅ⲍ̅:ⲕ̅ⲇ̅-ⲕ̅ⲋ̅</Comment>
+            <Stanza>\abv{Al}. Ⲫⲁⲓ ⲡⲉ ⲡⲓⲉ̀ϩⲟⲟⲩ ⲉ̀ⲧⲁ \abv{poc} ⲑⲁⲙⲓⲟϥ: ⲙⲁⲣⲉⲛⲑⲉⲗⲏⲗ ⲛ̀ⲧⲉⲛⲟ̀ⲩⲛⲟϥ ⲙ̀ⲙⲟⲛ ⲛ̀ϧⲏⲧϥ: ⲱ̀ \abv{poc} ⲉⲕⲉ̀ⲛⲁϩⲙⲉⲛ: ⲱ̀ \abv{poc} ⲉⲕⲉ̀ⲥⲟⲩⲧⲉⲛ ⲛⲉⲛⲙⲱⲓⲧ: ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉ̀ⲑⲛⲏⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀\abv{poc}: \abv{al}.</Stanza>
+        </Translation>
+    </Translations>
+</Document>
