@@ -21,28 +21,28 @@
         <Translations Key="HosannaResponse">
             <Run Language="English">Hosanna in the highest: this is the King of Israel; Blessed is He who comes in the name: of the Lord of Hosts.</Run>
             <Run Language="Coptic">Ⲱ̀ⲥⲁⲛⲛⲁ ϧⲉⲛ ⲛⲏⲉⲧϭⲟⲥⲓ: ⲫⲁⲓ ⲡⲉ Ⲡ̀ⲟⲩⲣⲟ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ: ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ: ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ.</Run>
-            <Run Langauge="Greek"></Run>
+            <Run Language="Greek"></Run>
             <Run Language="Arabic">أوصنا في الأعالي، هذا هو ملك إسرائيل، مبارك الآتي، بإسم رب القوات.</Run>
         </Translations>
         
         <Translations Key="PsalmResponse">
             <Run Language="English">Jesus Christ, the Son of God, entered into Jerusalem.</Run>
             <Run Language="Coptic">Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫ̀ⲛⲟⲩϯ: ⲁϥϣⲉ ⲉ̀ϧⲟⲩⲛ ⲉ̀Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ.</Run>
-            <Run Langauge="Greek"></Run>
+            <Run Language="Greek"></Run>
             <Run Language="Arabic"></Run>
         </Translations>
 
         <Translations Key="PsalmResponseEx">
             <Run Language="English">Jesus Christ, the Son of God, entered into Jerusalem, riding on a colt.</Run>
             <Run Language="Coptic">Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫ̀ⲛⲟⲩϯ: ⲁϥϣⲉ ⲉ̀ϧⲟⲩⲛ ⲉ̀Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ: ⲉϥⲧⲁⲗⲏⲟⲩⲧ ⲉ̀ⲟⲩⲉ̀ⲱ̀.</Run>
-            <Run Langauge="Greek"></Run>
+            <Run Language="Greek"></Run>
             <Run Language="Arabic"></Run>
         </Translations>
 
         <Translations Key="BlessedBeTheFather">
             <Run Language="English">Blessed be the Father and the Son / and the Holy Spirit, / the perfect Trinity, / we worship Him and glorify Him.</Run>
             <Stanza Language="Coptic">Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫⲓⲱⲧ ⲛⲉⲙ ⲡ̀Ϣⲏⲣⲓ: ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ \abv{ethu}: Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ.</Stanza>
-            <Run Langauge="Greek"></Run>
+            <Run Language="Greek"></Run>
             <Run Language="Arabic">مبارك الآب والابن والروح القدس، الثالوث الكامل، نسجد له ونمجده.</Run>
         </Translations>
     </Definitions>
