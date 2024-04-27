@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Let Us Pray</Name>
+    <Key>urn:suscopts:liturgy-let-us-pray</Key>
+    <Translations>
+        <Translation Title="Let Us Pray" Language="English">
+            <Comment Type="Explanation">This exchange is repeated multiple times throughout the service, first appearing immediately before the Thanksgiving Prayer during Matins.</Comment>
+
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Let us pray.</Stanza>
+
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>Stand up for prayer.</Stanza>
+
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Peace be with all.</Stanza>
+
+            <Comment Type="Role">People</Comment>
+            <Stanza>And with your spirit.</Stanza>
+        </Translation>
+
+        <Translation Title="" Language="Coptic">
+            <Comment Type="Explanation"></Comment>
+
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Ϣ&#x0300;ⲗⲏⲗ.</Stanza>
+
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>Ⲉ&#x0300;ⲡⲓ ⲡ&#x0300;ⲣⲟⲥⲉⲩⲭⲏ ⲥ&#x0300;ⲧⲁⲑⲏⲧⲉ.</Stanza>
+
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Ⲓⲣⲏⲛⲏ ⲡⲁⲥⲓ.</Stanza>
+
+            <Comment Type="Role">People</Comment>
+            <Stanza>Ⲕⲉ ⲧⲱ ⲡ&#x0300;ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ.</Stanza>
+        </Translation>
+    </Translations>
+</Document>

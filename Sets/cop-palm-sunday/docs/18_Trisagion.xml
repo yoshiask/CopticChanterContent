@@ -6,8 +6,8 @@
         <Translation Title="The Hymn of the Trisagion" Language="English">
             <Comment Type="Tune">Festive</Comment>
             <Stanza>\def{ThriceHoly}, who was born of the Virgin, \def{HaveMercy}.</Stanza>
-            <Stanza>\def{ThriceHoly}, who was crucified for us, \def{HaveMercy}</Stanza>
-            <Stanza>\def{ThriceHoly}, who was rose from the dead and ascended into the heavens, \def{HaveMercy}</Stanza>
+            <Stanza>\def{ThriceHoly}, who was crucified for us, \def{HaveMercy}.</Stanza>
+            <Stanza>\def{ThriceHoly}, who was rose from the dead and ascended into the heavens, \def{HaveMercy}.</Stanza>
             <Stanza>Glory to the Father and to the Son and to the Holy Spirit, now and ever and unto the ages of the ages. Amen. O Holy Trinity, \def{HaveMercy}.</Stanza>
         </Translation>
 

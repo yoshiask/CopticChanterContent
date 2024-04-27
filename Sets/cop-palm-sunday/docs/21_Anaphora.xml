@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Anaphora</Name>
+    <Key>urn:suscopts:anaphora</Key>
+    <Translations>
+        <Translation Title="Anaphora" Language="English">
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>The Lord be with you all.</Stanza>
+            <Comment Type="Role">People</Comment>
+            <Stanza>And with your spirit.</Stanza>
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Lift up your hearts.</Stanza>
+            <Comment Type="Role">People</Comment>
+            <Stanza>We have them with the Lord.</Stanza>
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Let us give thanks to the Lord.</Stanza>
+            <Comment Type="Role">People</Comment>
+            <Stanza>It is meet and right.</Stanza>
+
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Meet and right, meet and right; truly indeed, it is meet and right.</Stanza>
+            <Stanza>...</Stanza>
+            
+            <Comment Type="Role">Deacon</Comment>
+            <Stanza>You who are seated, stand.</Stanza>
+
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Before whom stand the angels, the archangels...</Stanza>
+        </Translation>
+
+        <Translation Title="Ⲁⲛⲁⲫⲟⲣⲁ" Language="Coptic">
+            <Stanza></Stanza>
+        </Translation>
+    </Translations>
+</Document>
