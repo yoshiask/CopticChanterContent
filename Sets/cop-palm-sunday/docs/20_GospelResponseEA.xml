@@ -5,9 +5,11 @@
     <Translations>
         <Translation Title="Gospel Response for Palm Sunday" Language="English">
             <Stanza>Today the saying are fulfilled / from the prophecies and the proverbs / as Zachariah prophecied and said / a prophecy about Jesus Christ.</Stanza>
+            <Stanza>\def{BlessedBeTheFather}</Stanza>
         </Translation>
         <Translation Title="" Language="Arabic">
             <Stanza></Stanza>
+            <Stanza>\def{BlessedBeTheFather}</Stanza>
         </Translation>
     </Translations>
 </Document>
