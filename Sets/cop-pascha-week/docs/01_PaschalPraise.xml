@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+    <Name>Paschal Praise</Name>
+    <Key>urn:suscopts:paschal-praise</Key>
+    <Translations>
+        <Translation Language="English" Title="Paschal Praise">
+            <Comment Type="Explanation">
+                This praise is sung before the psalm of the hour.
+                It is typically repeated nine times quickly, then slowly in each language: Coptic, English, and Arabic.
+            </Comment>
+            <Stanza>Lord have mercy.</Stanza>
+            <Stanza>\def{Refrain} Emannuel, our God and King.</Stanza>
+            <Stanza>\def{Refrain} My Lord, Jesus Christ:</Stanza>
+            <Comment Type="Description">First added in the 11th hour of Tuesday Day.</Comment>
+            <Stanza>my good Savior.</Stanza>
+            <Comment Type="Description">First added in the 1st hour of Friday Eve.</Comment>
+            <Stanza>The Lord is my strength, and my praise, He has become to me a sacred salvation.</Stanza>
+            <Stanza>\def{Refrain}</Stanza>
+        </Translation>
+
+        <Translation Language="Coptic" Title="Ⲡⲓϩⲱⲥ ⲛ&#x0300;ⲧⲉ Ⲡⲓⲡⲁⲥⲭⲁ">
+            <Comment Type="Explanation">
+                Ϣⲁⲣⲉ ⲡⲁⲓϩⲩⲙⲛⲟⲥ ϣⲁⲛⲉⲣⲯⲁⲗⲓⲛ ⲙⲉⲛⲉⲛⲥⲁ ⲡⲓⲯⲁⲗⲙⲟⲥ ⲛ̀ⲧⲉ ⲡⲓⲛⲁⲩ.
+                Ⲟⲩⲙⲏϣ ⲛ̀ⲥⲟⲡ ⲁⲛⲧⲁⲥⲑⲟ ⲯ̀ⲓⲧ ⲛ̀ⲭⲱⲗⲉⲙ: ⲧⲟⲧⲉ ϧⲉⲛ ⲏ̀ⲭⲟⲥ ⲡⲓⲛⲓϣϯ ϧⲉⲛ ⲡⲓⲟⲩⲁⲓ ⲡⲓⲟⲩⲁⲓ ϩⲁⲛⲁⲥⲡⲓ: Ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ, Ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲁⲅⲅⲗⲓⲕⲟⲥ, and Ϯⲁⲥⲡⲓ ⲛ̀ⲣⲉⲙⲁⲣⲁⲃⲏⲥ.
+            </Comment>
+            <Stanza>Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.</Stanza>
+            <Stanza>\def{Refrain} Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ ⲡⲉⲛⲛⲟⲩϯ ⲡⲉⲛⲟⲩⲣⲟ.</Stanza>
+            <Stanza>\def{Refrain} Ⲡⲁ\abv{oc} \abv{Ic} {Pxc}:</Stanza>
+            <Comment Type="Description">Ϣⲁⲛⲧⲟⲩϩⲟ ϧⲉⲛ ⲡⲓⲙⲁϩⲙⲏⲧⲟⲩⲁⲓ ⲛ̀ⲁϫⲡ ⲛ̀ⲧⲉ Ⲡⲓϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ.</Comment>
+            <Stanza>Ⲡⲁⲥⲱⲧⲏⲣ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ.</Stanza>
+            <Comment Type="Description">Ϣⲁⲛⲧⲟⲩϩⲟ ϧⲉⲛ ⲡⲓϣⲟⲣⲡ ⲛ̀ⲁϫⲡ ⲛ̀ⲧⲉ Ⲡⲓⲥⲟⲟⲩ ⲛ̀ⲣⲟⲩϩⲓ.</Comment>
+            <Stanza>Ⲧⲁϫⲟⲙ ⲛⲉⲙ ⲡⲁⲥ̀ⲙⲟⲩ ⲡⲉ \abv{Poc}: ⲁϥϣⲱⲡⲓ ⲛⲏⲓ ⲉⲩⲥⲱⲧⲏⲣⲓⲁ̀ ⲉϥⲟⲩⲁⲃ.</Stanza>
+            <Stanza>\def{Refrain}</Stanza>
+        </Translation>
+
+        <Translation Language="Arabic" Title="تسبحة البصخة">
+            <Comment Type="Explanation"></Comment>
+            <Stanza>يارب إرحم.</Stanza>
+            <Stanza>\def{Refrain} عمانوئيل إلهنا وملكنا.</Stanza>
+            <Stanza>\def{Refrain} ياربى يسوع المسيح</Stanza>
+            <Comment Type="Description"></Comment>
+            <Stanza>مخلصى الصالح.</Stanza>
+            <Comment Type="Description"></Comment>
+            <Stanza>قوتى وتسبحتى هو الرب وقد صار لى خلاصاً مقدساً.</Stanza>
+            <Stanza>\def{Refrain}</Stanza>
+        </Translation>
+    </Translations>
+
+    <Definitions>
+        <Translations Key="Refrain">
+            <Run Language="English">Thine is the power, the blessing, the majesty, forever. Amen.</Run>
+            <Stanza Language="Coptic">Ⲑⲱⲕ ⲧⲉ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ ⲛⲉⲙ ⲡⲓⲁ̀ⲙⲁϩⲓ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.</Stanza>
+            <Run Language="Arabic">لك القوة والمجد والبركة والعزة إلى الآبد آمين.</Run>
+        </Translations>
+    </Definitions>
+</Document>
