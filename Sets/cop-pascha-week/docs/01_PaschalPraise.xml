@@ -20,15 +20,15 @@
 
         <Translation Language="Coptic" Title="Ⲡⲓϩⲱⲥ ⲛ&#x0300;ⲧⲉ Ⲡⲓⲡⲁⲥⲭⲁ">
             <Comment Type="Explanation">
-                Ϣⲁⲣⲉ ⲡⲁⲓϩⲩⲙⲛⲟⲥ ϣⲁⲛⲉⲣⲯⲁⲗⲓⲛ ⲙⲉⲛⲉⲛⲥⲁ ⲡⲓⲯⲁⲗⲙⲟⲥ ⲛ̀ⲧⲉ ⲡⲓⲛⲁⲩ.
-                Ⲟⲩⲙⲏϣ ⲛ̀ⲥⲟⲡ ⲁⲛⲧⲁⲥⲑⲟ ⲯ̀ⲓⲧ ⲛ̀ⲭⲱⲗⲉⲙ: ⲧⲟⲧⲉ ϧⲉⲛ ⲏ̀ⲭⲟⲥ ⲡⲓⲛⲓϣϯ ϧⲉⲛ ⲡⲓⲟⲩⲁⲓ ⲡⲓⲟⲩⲁⲓ ϩⲁⲛⲁⲥⲡⲓ: Ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ, Ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲁⲅⲅⲗⲓⲕⲟⲥ, and Ϯⲁⲥⲡⲓ ⲛ̀ⲣⲉⲙⲁⲣⲁⲃⲏⲥ.
+                Ϣⲁⲣⲉ ⲡⲁⲓϩⲩⲙⲛⲟⲥ ⲉⲣⲯⲁⲗⲓⲛ ϧⲁϫⲉⲛ ⲡⲓⲯⲁⲗⲙⲟⲥ ⲛ̀ⲧⲉ ⲡⲓⲛⲁⲩ.
+                Ⲟⲩⲙⲏϣ ⲛ̀ⲥⲟⲡ ⲁⲛⲧⲁⲥⲑⲟ ⲯ̀ⲓⲧ ⲛ̀ⲭⲱⲗⲉⲙ: ⲧⲟⲧⲉ ϧⲉⲛ ⲏ̀ⲭⲟⲥ ⲡⲓⲛⲓϣϯ ϧⲉⲛ ⲡⲓⲟⲩⲁⲓ ⲡⲓⲟⲩⲁⲓ ϩⲁⲛⲁⲥⲡⲓ: Ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ, Ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲁⲅⲅⲗⲓⲕⲟⲥ, ⲛⲉⲙ Ϯⲁⲥⲡⲓ ⲛ̀ⲣⲉⲙⲁⲣⲁⲃⲏⲥ.
             </Comment>
             <Stanza>Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.</Stanza>
             <Stanza>\def{Refrain} Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ ⲡⲉⲛⲛⲟⲩϯ ⲡⲉⲛⲟⲩⲣⲟ.</Stanza>
-            <Stanza>\def{Refrain} Ⲡⲁ\abv{oc} \abv{Ic} {Pxc}:</Stanza>
+            <Stanza>\def{Refrain} Ⲡⲁ\abv{oc} \abv{Ic} \abv{Pxc}:</Stanza>
             <Comment Type="Description">Ϣⲁⲛⲧⲟⲩϩⲟ ϧⲉⲛ ⲡⲓⲙⲁϩⲙⲏⲧⲟⲩⲁⲓ ⲛ̀ⲁϫⲡ ⲛ̀ⲧⲉ Ⲡⲓϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ.</Comment>
             <Stanza>Ⲡⲁⲥⲱⲧⲏⲣ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ.</Stanza>
-            <Comment Type="Description">Ϣⲁⲛⲧⲟⲩϩⲟ ϧⲉⲛ ⲡⲓϣⲟⲣⲡ ⲛ̀ⲁϫⲡ ⲛ̀ⲧⲉ Ⲡⲓⲥⲟⲟⲩ ⲛ̀ⲣⲟⲩϩⲓ.</Comment>
+            <Comment Type="Description">Ϣⲁⲛⲧⲟⲩϩⲟ ϧⲉⲛ ⲡⲓϣⲟⲣⲡ ⲛ̀ⲁϫⲡ ⲛ&#x0300;ⲧⲉ Ⲡⲓⲥⲟⲟⲩ ⲛ&#x0300;ⲉϫⲱⲣϩ.</Comment>
             <Stanza>Ⲧⲁϫⲟⲙ ⲛⲉⲙ ⲡⲁⲥ̀ⲙⲟⲩ ⲡⲉ \abv{Poc}: ⲁϥϣⲱⲡⲓ ⲛⲏⲓ ⲉⲩⲥⲱⲧⲏⲣⲓⲁ̀ ⲉϥⲟⲩⲁⲃ.</Stanza>
             <Stanza>\def{Refrain}</Stanza>
         </Translation>
