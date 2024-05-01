@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+    <Name>Introduction to the Gospel [Pascha]</Name>
+    <Key>urn:suscopts:gospel-intro:pascha</Key>
+    <Translations>
+        <Translation Language="English" Title="Introduction to the Gospel during Pascha Week">
+            <Comment Type="Role">People</Comment>
+            <Stanza>We beseech our Lord and God, that we may be worthy to hear the Holy Gospel. In wisdom let us attend to the Holy Gospel.</Stanza>
+
+            <Comment Type="Role">Reader</Comment>
+            <Stanza>A reading according to Saint (...). May his blessings be with us. Amen.</Stanza>
+
+            <Comment Type="Role">People</Comment>
+            <Stanza>Glory be to God forever.</Stanza>
+        </Translation>
+
+        <Translation Language="Coptic" Title="Ⲕⲉ ⲩ̀ⲡⲉⲣⲧⲟⲩ">
+            <Comment Type="Role">People</Comment>
+            <Stanza>Ⲕⲉ ⲩ̀ⲡⲉⲣⲧⲟⲩ ⲕⲁⲧⲁⲝⲓⲱⲑⲏⲛⲉ ⲏ̀ⲙⲁⲥ: ⲧⲏⲥ ⲁⲕⲣⲟ ⲁ̀ⲥⲉⲱ̀ⲥ ⲧⲟⲩ ⲁ̀ⲅⲓⲟⲩ ⲉⲩⲁ̀ⲅⲅⲉⲗⲓⲟⲩ: ⲕⲩⲣⲓⲟⲛ ⲕⲉ ⲧⲟⲛ ⲑⲉⲟ̀ⲛ ⲏ̀ⲙⲱⲛ: ⲓ̀ⲕⲉⲧⲉⲩⲥⲱⲙⲉⲛ ⲥⲟⲫⲓⲁ ⲟⲣⲑⲓ ⲁ̀ⲕⲟⲩⲥⲱⲙⲉⲛ ⲧⲟⲩ ⲁ̀ⲅⲓⲟⲩ ⲉⲩⲁ̀ⲅⲅⲉⲗⲓⲟⲩ.</Stanza>
+
+            <Comment Type="Role">Reader</Comment>
+            <Stanza>Ⲟⲩⲁ&#x0300;ⲛⲁⲅⲛⲱⲥⲓⲥ ⲉ&#x0300;ⲃⲟⲗϧⲉⲛ ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲉⲑⲟⲩⲁⲃ ⲕⲁⲧⲁ (ⲛⲓⲙ) ⲁ&#x0300;ⲅⲓⲟⲩ.</Stanza>
+            
+            <Comment Type="Role">People</Comment>
+            <Stanza>Ⲇⲟⲝⲁ ⲥⲓ Ⲕⲩⲣⲓⲉ.</Stanza>
+        </Translation>
+    </Translations>
+</Document>
