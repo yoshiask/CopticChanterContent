@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>The Holy Body</Name>
+    <Key>urn:suscopts:holy-body</Key>
+    <Translations>
+        <Translation Title="The Holy Body..." Language="English">
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>The holy Body and the precious, true Blood of Jesus Christ, the Son of our God. Amen.</Stanza>
+            
+            <Comment Type="Role">People</Comment>
+            <Stanza>Blessed is He who comes in the name of the Lord.</Stanza>
+
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>The holy Body and the precious, true Blood of Jesus Christ, the Son of our God. Amen.</Stanza>
+            
+            <Comment Type="Role">People</Comment>
+            <Stanza>Blessed is He who comes in the name of the Lord.</Stanza>
+        </Translation>
+
+        <Translation Title="Ⲡⲓⲡⲁⲣⲁⲗⲉⲝ ⲛ&#x0300;ⲧⲉ Ⲱ&#x0300;ⲥⲁⲛⲛⲁ Ϯⲕⲩⲣⲓⲁⲕⲏ" Language="Coptic">
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Ⲧⲁ ⲁ&#x0300;ⲅⲓⲁ ⲧⲓⲥ ⲁ&#x0300;ⲅⲓⲥ. Ⲉⲩⲗⲟⲅⲏⲧⲟⲥ Ⲕⲩⲣⲓⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲭⲣⲓⲥⲧⲟⲥ Ⲩⲓⲟⲥ Ⲑⲉⲟⲩ ⲁ&#x0300;ⲅⲓⲁⲥⲙⲟⲥ Ⲡ&#x0300;ⲛⲉⲩⲙⲁ ⲁ&#x0300;ⲅⲓⲟⲛ: ⲁⲙⲏⲛ.</Stanza>
+            
+            <Comment Type="Role">People</Comment>
+            <Stanza>Ϥ&#x0300;ⲥ&#x0300;ⲙⲁⲣⲱⲟⲩⲧ ⲛ&#x0300;ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ&#x0300;\abv{Poc}.</Stanza>
+
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>Ⲧⲁ ⲁ&#x0300;ⲅⲓⲁ ⲧⲓⲥ ⲁ&#x0300;ⲅⲓⲥ. Ⲉⲩⲗⲟⲅⲏⲧⲟⲥ Ⲕⲩⲣⲓⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲭⲣⲓⲥⲧⲟⲥ Ⲩⲓⲟⲥ Ⲑⲉⲟⲩ ⲁ&#x0300;ⲅⲓⲁⲥⲙⲟⲥ Ⲡ&#x0300;ⲛⲉⲩⲙⲁ ⲁ&#x0300;ⲅⲓⲟⲛ: ⲁⲙⲏⲛ.</Stanza>
+            
+            <Comment Type="Role">People</Comment>
+            <Stanza>Ϥ&#x0300;ⲥ&#x0300;ⲙⲁⲣⲱⲟⲩⲧ ⲛ&#x0300;ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ&#x0300;\abv{Poc}.</Stanza>
+        </Translation>
+    </Translations>
+</Document>

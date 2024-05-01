@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Palm Sunday Praxis Response</Name>
+    <Key>urn:suscopts:praxis-response:palm-sunday</Key>
+    <Translations>
+        <Translation Title="Response to the Palm Sunday Praxis" Language="English">
+            <Stanza>\def{HosannaResponse}</Stanza>
+            <Stanza>Blessed are You indeed, / with Your good Father / and the Holy Spirit, / for You have come and saved us. Have mercy on us.</Stanza>
+        </Translation>
+        <Translation Title="" Language="Coptic">
+            <Stanza>\def{HosannaResponse}</Stanza>
+            <Stanza>Ⲕ&#x0300;ⲥ&#x0300;ⲙⲁⲣⲱⲟⲩⲧ ⲁ&#x0300;ⲗⲏⲑⲟⲥ: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ&#x0300;ⲁ&#x0300;ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓ\abv{pna} \abv{ethu}: ϫⲉ ⲁⲕⲓ&#x0300; ⲁⲕⲥⲱϯ ⲙ&#x0300;ⲙⲟⲛ ⲛⲁⲓ ⲛⲁⲛ.</Stanza>
+        </Translation>
+    </Translations>
+</Document>

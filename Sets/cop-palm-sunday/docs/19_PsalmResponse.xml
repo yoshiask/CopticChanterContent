@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>Psalm Response for Palm Sunday</Name>
+    <Key>urn:suscopts:psalm-response:palm-sunday</Key>
+    <Translations>
+        <Translation Title="Psalm Response for Palm Sunday" Language="English">
+            <Stanza>Alleluia, alleluia. Jesus Christ, the Son of God, entered into Jerusalem, riding on a colt. Alleluia, alleluia.</Stanza>
+        </Translation>
+        <Translation Title="" Language="Coptic">
+            <Stanza>\abv{Al}: \abv{al}. \def{PsalmResponseEx} \abv{Al}: \abv{al}.</Stanza>
+        </Translation>
+    </Translations>
+</Document>

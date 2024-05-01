@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>English/Arabic Gospel Response for Palm Sunday</Name>
+    <Key>urn:suscopts:gospel-response:palm-sunday</Key>
+    <Translations>
+        <Translation Title="Gospel Response for Palm Sunday" Language="English">
+            <Stanza>Today the saying are fulfilled / from the prophecies and the proverbs / as Zachariah prophecied and said / a prophecy about Jesus Christ.</Stanza>
+            <Stanza>\def{BlessedBeTheFather}</Stanza>
+        </Translation>
+        <Translation Title="" Language="Arabic">
+            <Stanza></Stanza>
+            <Stanza>\def{BlessedBeTheFather}</Stanza>
+        </Translation>
+    </Translations>
+</Document>
