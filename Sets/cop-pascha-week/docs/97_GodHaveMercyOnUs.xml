@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+    <Name>God Have Mercy On Us</Name>
+    <Key>urn:suscopts:pascha-conclusion</Key>
+    <Translations>
+        <Translation Language="English" Title="God Have Mercy On Us">
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>O God, have mercy upon us, settle mercy upon us, show us mercy in Your kingdom.</Stanza>
+
+            <Comment Type="Role">People</Comment>
+            <Reference>Refrain</Reference>
+            <Reference>Refrain</Reference>
+
+            <Reference>Refrain</Reference>
+            <Reference>Refrain</Reference>
+            <Stanza>O King of peace, grant us Your peace, establish for us Your peace, and forgive us our sins.</Stanza>
+            
+            <Reference>Refrain</Reference>
+            <Reference>Refrain</Reference>
+            <Stanza>Disperse the enemies, of the Church, and fortify her, that she may not be shaken forever.</Stanza>
+            
+            <Reference>Refrain</Reference>
+            <Reference>Refrain</Reference>
+            <Stanza>Emmanuel our God, is now in our midst, with the glory of His Father, and the Holy Spirit.</Stanza>
+            
+            <Reference>Refrain</Reference>
+            <Reference>Refrain</Reference>
+            <Stanza>May He bless us all, and purify our hearts, and heal the sicknesses of our souls and bodies.</Stanza>
+            
+            <Reference>Refrain</Reference>
+            <Reference>Refrain</Reference>
+            <Stanza>We worship You O Christ, with Your good Father, and the Holy Spirit, for You were crucified and saved us.</Stanza>
+        </Translation>
+
+        <Translation Language="Coptic" Title="Ⲫ̀ⲛⲟⲩϯ ⲛⲁⲓ ⲛⲁⲛ">
+            <Comment Type="Role">Priest</Comment>
+            <Stanza>\abv{Fti} ⲛⲁⲓ ⲛⲁⲛ: ⲑⲉϣ ⲟⲩⲛⲁⲓ ⲉ̀ⲣⲟⲛ: ⲁ̀ⲣⲓⲟⲩⲛⲁⲓ ⲛⲉⲙⲁⲛ: ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ.</Stanza>
+            
+            <Comment Type="Role">People</Comment>
+            <Reference>Refrain</Reference>
+            <Reference>Refrain</Reference>
+
+            <Reference>Refrain</Reference>
+            <Reference>Refrain</Reference>
+            <Stanza>Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ϯϩⲓⲣⲏⲛⲏ: ⲙⲟⲓ ⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ: ⲥⲉⲙⲛⲓ ⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ: ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.</Stanza>
+            
+            <Reference>Refrain</Reference>
+            <Reference>Refrain</Reference>
+            <Stanza>Ϫⲱⲣ ⲉⲃⲟⲗ ⲛ̀ⲛⲓϫⲁϫⲓ: ⲛ̀ⲧⲉ ϯⲉⲕⲕⲗⲏⲥⲓⲁ̀: ⲁⲣⲓⲥⲟⲃⲧ ⲉⲣⲟⲥ: ⲛ̀ⲛⲉⲥⲕⲓⲙ ϣⲁ ⲉ̀ⲛⲉϩ.</Stanza>
+            
+            <Reference>Refrain</Reference>
+            <Reference>Refrain</Reference>
+            <Stanza>Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ Ⲡⲉⲛⲛⲟⲩϯ: ϧⲉⲛ ⲧⲉⲛⲙⲏϯ ϯⲛⲟⲩ: ϧⲉⲛ ⲡ̀ⲱ̀ⲟⲩ ⲛ̀ⲧⲉ Ⲡⲉϥⲓⲱⲧ: ⲛⲉⲙ Ⲡⲓ\abv{pna} Ⲉⲑⲟⲩⲁⲃ.</Stanza>
+            
+            <Reference>Refrain</Reference>
+            <Reference>Refrain</Reference>
+            <Stanza>Ⲛ̀ⲧⲉϥⲥ̀ⲙⲟⲩ ⲉⲣⲟⲛ ⲧⲏⲣⲉⲛ: ⲛ̀ⲧⲉϥⲧⲟⲩⲃⲟ ⲛ̀ⲛⲉⲛϩⲏⲧ: ⲛ̀ⲧⲉϥⲧⲁⲗϭⲟ ⲛ̀ⲛⲓϣⲱⲛⲓ: ⲛ̀ⲧⲉ ⲛⲉⲛⲯⲩⲭⲏ ⲛⲉⲙ ⲛⲉⲛⲥⲱⲙⲁ.</Stanza>
+            
+            <Reference>Refrain</Reference>
+            <Reference>Refrain</Reference>
+            <Stanza>Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲱ̀ \abv{Pxc}: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓ\abv{pna} \abv{Ethu}: ϫⲉ ⲁⲩⲁϣⲕ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.</Stanza>
+        </Translation>
+    </Translations>
+
+    <Definitions>
+        <Translations Key="Refrain">
+            <Run Language="English">Lord have mercy, Lord have mercy, Lord have mercy.</Run>
+            <Run Language="Coptic">Ⲕⲩⲣⲓⲉ̀ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ̀ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ̀ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.</Run>
+            <Run Language="Arabic">يا رب إرحم. يا رب إرحم. يا رب إرحم.</Run>
+        </Translations>
+    </Definitions>
+</Document>

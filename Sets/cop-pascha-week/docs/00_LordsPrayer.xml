@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+    <Name>The Lord's Prayer</Name>
+    <Key>urn:suscopts:lords-prayer</Key>
+    <Translations>
+        <Translation Language="English" Title="The Lord's Prayer">
+            <Stanza>Make us worthy to pray thankfully:</Stanza>
+            <Stanza>Our Father who art in heaven, hallowed be Thy name.</Stanza>
+            <Stanza>Thy kingdom come, Thy will be done, on earth as it is in heaven.</Stanza>
+            <Stanza>Give us this day our daily bread and forgive us our trespasses, as we forgive those who tresspass against us. And lead us not into temptation, but deliver us from the evil one.</Stanza>
+            <Stanza>In Christ Jesus our Lord. For Thine is the kingdom, and the power, and the glory, forever. Amen.</Stanza>
+        </Translation>
+
+        <Translation Language="Coptic" Title="Ⲡ&#x0300;ϣ&#x0300;ⲗⲏⲗ ⲙ&#x0300;Ⲡ&#x0300;ϭⲟⲓⲥ">
+            <Stanza>Ⲁⲣⲓⲧⲉⲛ ⲛ&#x0300;ⲉⲙⲡ&#x0300;ϣⲁ ⲛ&#x0300;ϫⲟⲥ ϧⲉⲛ ⲟⲩϣⲉⲡϩ&#x0300;ⲙⲟⲧ:</Stanza>
+            <Stanza>Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ⲉⲧ ϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ.</Stanza>
+            <Stanza>Ⲙⲁⲣⲉⲥⲓ̀ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ. Ⲡⲉⲧⲉϩ ⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ.</Stanza>
+            <Stanza>Ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ. Ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉ̀ⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ. Ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ.</Stanza>
+            <Stanza>Ϧⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ. Ⲁ̀ⲙⲏⲛ.</Stanza>
+        </Translation>
+    </Translations>
+</Document>
