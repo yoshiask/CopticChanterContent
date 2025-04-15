@@ -10,26 +10,18 @@
             </Comment>
             <Stanza>Lord have mercy.</Stanza>
             <Stanza>\def{Refrain} Emannuel, our God and King.</Stanza>
-            <Stanza>\def{Refrain} My Lord, Jesus Christ:</Stanza>
-            <Comment Type="Description">First added in the 11th hour of Tuesday Day.</Comment>
-            <Stanza>my good Savior.</Stanza>
-            <Comment Type="Description">First added in the 1st hour of Friday Eve.</Comment>
-            <Stanza>The Lord is my strength, and my praise, He has become to me a sacred salvation.</Stanza>
+            <Stanza>\def{Refrain} \def{SecondStanza}</Stanza>
             <Stanza>\def{Refrain}</Stanza>
         </Translation>
 
         <Translation Language="Coptic" Title="Ⲡⲓϩⲱⲥ ⲛ&#x0300;ⲧⲉ Ⲡⲓⲡⲁⲥⲭⲁ">
             <Comment Type="Explanation">
                 Ϣⲁⲣⲉ ⲡⲁⲓϩⲩⲙⲛⲟⲥ ⲉⲣⲯⲁⲗⲓⲛ ϧⲁϫⲉⲛ ⲡⲓⲯⲁⲗⲙⲟⲥ ⲛ̀ⲧⲉ ⲡⲓⲛⲁⲩ.
-                Ⲟⲩⲙⲏϣ ⲛ̀ⲥⲟⲡ ⲁⲛⲧⲁⲥⲑⲟ ⲯ̀ⲓⲧ ⲛ̀ⲭⲱⲗⲉⲙ: ⲧⲟⲧⲉ ϧⲉⲛ ⲏ̀ⲭⲟⲥ ⲡⲓⲛⲓϣϯ ϧⲉⲛ ⲡⲓⲟⲩⲁⲓ ⲡⲓⲟⲩⲁⲓ ϩⲁⲛⲁⲥⲡⲓ: Ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ, Ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲁⲅⲅⲗⲓⲕⲟⲥ, ⲛⲉⲙ Ϯⲁⲥⲡⲓ ⲛ̀ⲣⲉⲙⲁⲣⲁⲃⲏⲥ.
+                Ϩⲁⲛⲙⲏϣ ⲛ̀ⲥⲟⲡ ⲁⲛⲧⲁⲥⲑⲟ ⲯ̀ⲓⲧ ⲛ̀ⲭⲱⲗⲉⲙ: ⲧⲟⲧⲉ ϧⲉⲛ ⲏ̀ⲭⲟⲥ ⲡⲓⲛⲓϣϯ ϧⲉⲛ ⲡⲓⲟⲩⲁⲓ ⲡⲓⲟⲩⲁⲓ ϩⲁⲛⲁⲥⲡⲓ: Ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ, Ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲁⲅⲅⲗⲓⲕⲟⲥ, ⲛⲉⲙ Ϯⲁⲥⲡⲓ ⲛ̀ⲣⲉⲙⲁⲣⲁⲃⲏⲥ.
             </Comment>
             <Stanza>Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.</Stanza>
             <Stanza>\def{Refrain} Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ ⲡⲉⲛⲛⲟⲩϯ ⲡⲉⲛⲟⲩⲣⲟ.</Stanza>
-            <Stanza>\def{Refrain} Ⲡⲁ\abv{oc} \abv{Ic} \abv{Pxc}:</Stanza>
-            <Comment Type="Description">Ϣⲁⲛⲧⲟⲩϩⲟ ϧⲉⲛ ⲡⲓⲙⲁϩⲙⲏⲧⲟⲩⲁⲓ ⲛ̀ⲁϫⲡ ⲛ̀ⲧⲉ Ⲡⲓϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ.</Comment>
-            <Stanza>Ⲡⲁⲥⲱⲧⲏⲣ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ.</Stanza>
-            <Comment Type="Description">Ϣⲁⲛⲧⲟⲩϩⲟ ϧⲉⲛ ⲡⲓϣⲟⲣⲡ ⲛ̀ⲁϫⲡ ⲛ&#x0300;ⲧⲉ Ⲡⲓⲥⲟⲟⲩ ⲛ&#x0300;ⲉϫⲱⲣϩ.</Comment>
-            <Stanza>Ⲧⲁϫⲟⲙ ⲛⲉⲙ ⲡⲁⲥ̀ⲙⲟⲩ ⲡⲉ \abv{Poc}: ⲁϥϣⲱⲡⲓ ⲛⲏⲓ ⲉⲩⲥⲱⲧⲏⲣⲓⲁ̀ ⲉϥⲟⲩⲁⲃ.</Stanza>
+            <Stanza>\def{Refrain} \def{SecondStanza}</Stanza>
             <Stanza>\def{Refrain}</Stanza>
         </Translation>
 
@@ -37,11 +29,7 @@
             <Comment Type="Explanation"></Comment>
             <Stanza>يارب إرحم.</Stanza>
             <Stanza>\def{Refrain} عمانوئيل إلهنا وملكنا.</Stanza>
-            <Stanza>\def{Refrain} ياربى يسوع المسيح</Stanza>
-            <Comment Type="Description"></Comment>
-            <Stanza>مخلصى الصالح.</Stanza>
-            <Comment Type="Description"></Comment>
-            <Stanza>قوتى وتسبحتى هو الرب وقد صار لى خلاصاً مقدساً.</Stanza>
+            <Stanza>\def{Refrain} \def{SecondStanza}</Stanza>
             <Stanza>\def{Refrain}</Stanza>
         </Translation>
     </Translations>
@@ -52,5 +40,41 @@
             <Stanza Language="Coptic">Ⲑⲱⲕ ⲧⲉ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ ⲛⲉⲙ ⲡⲓⲁ̀ⲙⲁϩⲓ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.</Stanza>
             <Run Language="Arabic">لك القوة والمجد والبركة والعزة إلى الآبد آمين.</Run>
         </Translations>
+
+        <Script Key="SecondStanzaScript">
+<![CDATA[
+var today = context!.CurrentDate;
+int dayOfWeek = (int)today.DayOfWeek;
+
+string? engText, copText, araText;
+engText = copText = araText = null;
+
+if (dayOfWeek >= (int)IsoDayOfWeek.Tuesday && dayOfWeek < (int)IsoDayOfWeek.Sunday)
+{
+    engText = "My Lord, Jesus Christ: my good Savior.";
+    copText = "Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: Ⲡⲁⲥⲱⲧⲏⲣ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ.";
+    araText = "ياربى يسوع المسيح مخلصى الصالح.";
+}
+else if (dayOfWeek >= (int)IsoDayOfWeek.Friday && dayOfWeek < (int)IsoDayOfWeek.Sunday)
+{
+    engText = "My Lord, Jesus Christ: my good Savior. The Lord is my strength, and my praise, He has become to me a sacred salvation.";
+    copText = "Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: Ⲡⲁⲥⲱⲧⲏⲣ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ. Ⲧⲁϫⲟⲙ ⲛⲉⲙ ⲡⲁⲥ̀ⲙⲟⲩ ⲡⲉ Ⲡ̀ϭⲟⲓⲥ: ⲁϥϣⲱⲡⲓ ⲛⲏⲓ ⲉⲩⲥⲱⲧⲏⲣⲓⲁ̀ ⲉϥⲟⲩⲁⲃ.";
+    araText = "ياربى يسوع المسيح مخلصى الصالح. قوتى وتسبحتى هو الرب وقد صار لى خلاصاً مقدساً.";
+}
+else
+{
+    engText = "My Lord, Jesus Christ.";
+    copText = "Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.";
+    araText = "ياربى يسوع المسيح.";
+}
+
+var res = new TranslationRunCollection("SecondStanza");
+res.AddText(engText, KnownLanguage.English);
+res.AddText(copText, KnownLanguage.Coptic);
+res.AddText(araText, KnownLanguage.Arabic);
+
+return res;
+]]>
+        </Script>
     </Definitions>
 </Document>
